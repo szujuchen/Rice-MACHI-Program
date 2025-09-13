@@ -1,0 +1,2573 @@
+[
+    {
+        "validation_Accounting_30": "(B) No"
+    },
+    {
+        "validation_Accounting_17": "(D) $116,350"
+    },
+    {
+        "validation_Accounting_8": "(A) $660"
+    },
+    {
+        "validation_Accounting_26": "(A) 350 units and $34,647.65"
+    },
+    {
+        "validation_Accounting_25": "(A) Are in equilibrium."
+    },
+    {
+        "validation_Accounting_23": "A"
+    },
+    {
+        "validation_Accounting_6": "(D) 5,728 3,409 2,500"
+    },
+    {
+        "validation_Accounting_22": "(A) 3.470"
+    },
+    {
+        "validation_Accounting_27": "(B) 0.693"
+    },
+    {
+        "validation_Accounting_11": "C"
+    },
+    {
+        "validation_Accounting_20": "(A) 17.4%"
+    },
+    {
+        "validation_Accounting_21": "(D) No project would be incorrectly rejected; Project Z would be incorrectly accepted."
+    },
+    {
+        "validation_Accounting_10": "(C)"
+    },
+    {
+        "validation_Accounting_7": "(A) 3.31"
+    },
+    {
+        "validation_Accounting_19": "(D) $13"
+    },
+    {
+        "validation_Accounting_4": "(D) $0"
+    },
+    {
+        "validation_Accounting_1": "(A) $6"
+    },
+    {
+        "validation_Accounting_16": "A"
+    },
+    {
+        "validation_Accounting_18": "(A) $72,283"
+    },
+    {
+        "validation_Accounting_24": "(C)"
+    },
+    {
+        "validation_Accounting_13": "B"
+    },
+    {
+        "validation_Accounting_12": "(C) $2,474,000"
+    },
+    {
+        "validation_Accounting_15": "(A) $4,840"
+    },
+    {
+        "validation_Accounting_29": "A"
+    },
+    {
+        "validation_Accounting_3": "(A) Project A"
+    },
+    {
+        "validation_Accounting_5": "(D) 132,685"
+    },
+    {
+        "validation_Accounting_28": "(C) $288,000"
+    },
+    {
+        "validation_Accounting_2": "(D) $9,000"
+    },
+    {
+        "validation_Accounting_14": "(A) $10,208"
+    },
+    {
+        "validation_Accounting_9": "(D) $6,060"
+    },
+    {
+        "validation_Agriculture_30": "C"
+    },
+    {
+        "validation_Agriculture_17": "E"
+    },
+    {
+        "validation_Agriculture_8": "A"
+    },
+    {
+        "validation_Agriculture_25": "A"
+    },
+    {
+        "validation_Agriculture_23": "C"
+    },
+    {
+        "validation_Agriculture_6": "B"
+    },
+    {
+        "validation_Agriculture_22": "E"
+    },
+    {
+        "validation_Agriculture_27": "D"
+    },
+    {
+        "validation_Agriculture_11": "A"
+    },
+    {
+        "validation_Agriculture_20": "C"
+    },
+    {
+        "validation_Agriculture_21": "C"
+    },
+    {
+        "validation_Agriculture_10": "A"
+    },
+    {
+        "validation_Agriculture_7": "A"
+    },
+    {
+        "validation_Agriculture_19": "C"
+    },
+    {
+        "validation_Agriculture_4": "E"
+    },
+    {
+        "validation_Agriculture_1": "A"
+    },
+    {
+        "validation_Agriculture_16": "D"
+    },
+    {
+        "validation_Agriculture_18": "C"
+    },
+    {
+        "validation_Agriculture_24": "A"
+    },
+    {
+        "validation_Agriculture_13": "(D)"
+    },
+    {
+        "validation_Agriculture_12": "D"
+    },
+    {
+        "validation_Agriculture_15": "B"
+    },
+    {
+        "validation_Agriculture_29": "D"
+    },
+    {
+        "validation_Agriculture_3": "C"
+    },
+    {
+        "validation_Agriculture_5": "D"
+    },
+    {
+        "validation_Agriculture_28": "(B) Mistletoe is beneficial and increases the growth of the plant."
+    },
+    {
+        "validation_Agriculture_2": "E"
+    },
+    {
+        "validation_Agriculture_14": "A"
+    },
+    {
+        "validation_Agriculture_9": "D"
+    },
+    {
+        "validation_Architecture_and_Engineering_30": "(A) 5136.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$"
+    },
+    {
+        "validation_Architecture_and_Engineering_17": "(D) 29.693 * 106 $m^{3}$"
+    },
+    {
+        "validation_Architecture_and_Engineering_8": "(A)"
+    },
+    {
+        "validation_Architecture_and_Engineering_26": "(D) AO = 884.49 m,CO = 1634 m"
+    },
+    {
+        "validation_Architecture_and_Engineering_25": "(B) EUAW1=$18,444, EUAW2=$15,730"
+    },
+    {
+        "validation_Architecture_and_Engineering_23": "(A)"
+    },
+    {
+        "validation_Architecture_and_Engineering_6": "(A) The scale of the photographs is 1 cm = 62.5 m; Air base = 625 m"
+    },
+    {
+        "validation_Architecture_and_Engineering_22": "(D)"
+    },
+    {
+        "validation_Architecture_and_Engineering_27": "(A) Distance CB = 748.50'"
+    },
+    {
+        "validation_Architecture_and_Engineering_11": "C"
+    },
+    {
+        "validation_Architecture_and_Engineering_20": "(A)"
+    },
+    {
+        "validation_Architecture_and_Engineering_21": "(A) 120 m"
+    },
+    {
+        "validation_Architecture_and_Engineering_10": "(C) 4723 $m^{2}$"
+    },
+    {
+        "validation_Architecture_and_Engineering_7": "(A) 2.603"
+    },
+    {
+        "validation_Architecture_and_Engineering_19": "(C) Max.Compr.= 48.95 kips; Max.Tension = 33.1 kips"
+    },
+    {
+        "validation_Architecture_and_Engineering_4": "(C) 0"
+    },
+    {
+        "validation_Architecture_and_Engineering_1": "(A) 9.75kips compression"
+    },
+    {
+        "validation_Architecture_and_Engineering_16": "C"
+    },
+    {
+        "validation_Architecture_and_Engineering_18": "(A) 945.8 m, 216°45'"
+    },
+    {
+        "validation_Architecture_and_Engineering_13": "(A) 4.32 mm"
+    },
+    {
+        "validation_Architecture_and_Engineering_12": "(A) B = 143°44'00.34\";C = 238°10'11.87\";D = 307°08'20.76\""
+    },
+    {
+        "validation_Architecture_and_Engineering_15": "(C) -1.74k compr"
+    },
+    {
+        "validation_Architecture_and_Engineering_29": "(A) Gradient = 1 in 35.95 m fall"
+    },
+    {
+        "validation_Architecture_and_Engineering_3": "(A) 150.507 m"
+    },
+    {
+        "validation_Architecture_and_Engineering_5": "(D)"
+    },
+    {
+        "validation_Architecture_and_Engineering_28": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_2": "(A) 35.567 $\\approx$ 36"
+    },
+    {
+        "validation_Architecture_and_Engineering_14": "P8.42"
+    },
+    {
+        "validation_Architecture_and_Engineering_9": "(D) 14573 $m^{3}$"
+    },
+    {
+        "validation_Art_30": "B"
+    },
+    {
+        "validation_Art_17": "D"
+    },
+    {
+        "validation_Art_8": "C"
+    },
+    {
+        "validation_Art_26": "C"
+    },
+    {
+        "validation_Art_25": "C"
+    },
+    {
+        "validation_Art_23": "A"
+    },
+    {
+        "validation_Art_6": "D"
+    },
+    {
+        "validation_Art_22": "(A) The Water Babies by Charles Kingsley (1863)"
+    },
+    {
+        "validation_Art_27": "A"
+    },
+    {
+        "validation_Art_11": "C"
+    },
+    {
+        "validation_Art_20": "A"
+    },
+    {
+        "validation_Art_21": "C"
+    },
+    {
+        "validation_Art_10": "B"
+    },
+    {
+        "validation_Art_7": "A"
+    },
+    {
+        "validation_Art_19": "(A) Photo 1"
+    },
+    {
+        "validation_Art_4": "D"
+    },
+    {
+        "validation_Art_1": "C"
+    },
+    {
+        "validation_Art_16": "A"
+    },
+    {
+        "validation_Art_18": "A"
+    },
+    {
+        "validation_Art_24": "A"
+    },
+    {
+        "validation_Art_13": "C"
+    },
+    {
+        "validation_Art_12": "B"
+    },
+    {
+        "validation_Art_15": "C"
+    },
+    {
+        "validation_Art_29": "B"
+    },
+    {
+        "validation_Art_3": "B"
+    },
+    {
+        "validation_Art_5": "C"
+    },
+    {
+        "validation_Art_28": "B"
+    },
+    {
+        "validation_Art_2": "B"
+    },
+    {
+        "validation_Art_14": "D"
+    },
+    {
+        "validation_Art_9": "B"
+    },
+    {
+        "validation_Art_Theory_30": "D"
+    },
+    {
+        "validation_Art_Theory_17": "C"
+    },
+    {
+        "validation_Art_Theory_8": "A"
+    },
+    {
+        "validation_Art_Theory_26": "D"
+    },
+    {
+        "validation_Art_Theory_25": "A"
+    },
+    {
+        "validation_Art_Theory_23": "B"
+    },
+    {
+        "validation_Art_Theory_6": "B"
+    },
+    {
+        "validation_Art_Theory_22": "C"
+    },
+    {
+        "validation_Art_Theory_20": "D"
+    },
+    {
+        "validation_Art_Theory_21": "D"
+    },
+    {
+        "validation_Art_Theory_10": "B"
+    },
+    {
+        "validation_Art_Theory_7": "C"
+    },
+    {
+        "validation_Art_Theory_19": "B"
+    },
+    {
+        "validation_Art_Theory_18": "D"
+    },
+    {
+        "validation_Art_Theory_24": "C"
+    },
+    {
+        "validation_Art_Theory_13": "B"
+    },
+    {
+        "validation_Art_Theory_12": "A"
+    },
+    {
+        "validation_Art_Theory_15": "C"
+    },
+    {
+        "validation_Art_Theory_29": "A"
+    },
+    {
+        "validation_Art_Theory_3": "B"
+    },
+    {
+        "validation_Art_Theory_5": "C"
+    },
+    {
+        "validation_Art_Theory_28": "B"
+    },
+    {
+        "validation_Art_Theory_2": "C"
+    },
+    {
+        "validation_Art_Theory_14": "D"
+    },
+    {
+        "validation_Art_Theory_9": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_30": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_17": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_8": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_26": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_25": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_23": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_6": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_22": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_27": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_11": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_20": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_21": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_10": "Left"
+    },
+    {
+        "validation_Basic_Medical_Science_7": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_19": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_4": "(D) Loss of facial sensation."
+    },
+    {
+        "validation_Basic_Medical_Science_1": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_16": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_18": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_24": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_13": "(C) Cranial Nerve VI."
+    },
+    {
+        "validation_Basic_Medical_Science_12": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_15": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_29": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_3": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_5": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_28": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_2": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_14": "Hormone"
+    },
+    {
+        "validation_Basic_Medical_Science_9": "C"
+    },
+    {
+        "validation_Biology_30": "A"
+    },
+    {
+        "validation_Biology_17": "D"
+    },
+    {
+        "validation_Biology_8": "(A) Flight Path A: the crow has a wider view of his surroundings to assure that another bird will not steal the whelk"
+    },
+    {
+        "validation_Biology_26": "A"
+    },
+    {
+        "validation_Biology_25": "(D) Species 1 and 2 only"
+    },
+    {
+        "validation_Biology_23": "C"
+    },
+    {
+        "validation_Biology_6": "A"
+    },
+    {
+        "validation_Biology_22": "(D) 1/2"
+    },
+    {
+        "validation_Biology_27": "(C) Aa or AA"
+    },
+    {
+        "validation_Biology_11": "A"
+    },
+    {
+        "validation_Biology_20": "(A) 17% of the maximum HbO2 would be delivered."
+    },
+    {
+        "validation_Biology_21": "A"
+    },
+    {
+        "validation_Biology_10": "0"
+    },
+    {
+        "validation_Biology_7": "A"
+    },
+    {
+        "validation_Biology_19": "B"
+    },
+    {
+        "validation_Biology_4": "(C) X-linked recessive (XR)"
+    },
+    {
+        "validation_Biology_1": "A"
+    },
+    {
+        "validation_Biology_16": "(D) Group 1 and Group 18"
+    },
+    {
+        "validation_Biology_18": "D"
+    },
+    {
+        "validation_Biology_13": "(D) I, II, and III only"
+    },
+    {
+        "validation_Biology_12": "(C)"
+    },
+    {
+        "validation_Biology_15": "B"
+    },
+    {
+        "validation_Biology_3": "B"
+    },
+    {
+        "validation_Biology_5": "D"
+    },
+    {
+        "validation_Biology_28": "D"
+    },
+    {
+        "validation_Biology_2": "(B) 50 um"
+    },
+    {
+        "validation_Biology_14": "(A) 1/2"
+    },
+    {
+        "validation_Biology_9": "(A) ALILALMWWLLF"
+    },
+    {
+        "validation_Chemistry_30": "M2+x"
+    },
+    {
+        "validation_Chemistry_17": "(B) P, R"
+    },
+    {
+        "validation_Chemistry_8": "B"
+    },
+    {
+        "validation_Chemistry_25": "35.5"
+    },
+    {
+        "validation_Chemistry_23": "0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "validation_Chemistry_6": "A"
+    },
+    {
+        "validation_Chemistry_22": "(D)"
+    },
+    {
+        "validation_Chemistry_27": "(A) Cl^-"
+    },
+    {
+        "validation_Chemistry_11": "A"
+    },
+    {
+        "validation_Chemistry_20": "1"
+    },
+    {
+        "validation_Chemistry_21": "(D)"
+    },
+    {
+        "validation_Chemistry_7": "(D) 16"
+    },
+    {
+        "validation_Chemistry_19": "1"
+    },
+    {
+        "validation_Chemistry_4": "H"
+    },
+    {
+        "validation_Chemistry_1": "A"
+    },
+    {
+        "validation_Chemistry_16": "D"
+    },
+    {
+        "validation_Chemistry_24": "C"
+    },
+    {
+        "validation_Chemistry_13": "0.350"
+    },
+    {
+        "validation_Chemistry_15": "(D)"
+    },
+    {
+        "validation_Chemistry_3": "(C) Product has less resonance energy"
+    },
+    {
+        "validation_Chemistry_5": "(D) 2R, 3R"
+    },
+    {
+        "validation_Chemistry_28": "(D)"
+    },
+    {
+        "validation_Chemistry_2": "(D) The Lewis structure shows the bond between carbon and oxygen as a triple bond but the real bond is actually a double bond."
+    },
+    {
+        "validation_Chemistry_14": "A"
+    },
+    {
+        "validation_Chemistry_9": "B"
+    },
+    {
+        "validation_Clinical_Medicine_30": "C"
+    },
+    {
+        "validation_Clinical_Medicine_17": "C"
+    },
+    {
+        "validation_Clinical_Medicine_8": "(C) Complement mediated cell destruction"
+    },
+    {
+        "validation_Clinical_Medicine_26": "A"
+    },
+    {
+        "validation_Clinical_Medicine_25": "(C) Anti-microsomal and anti-thyroglobulin antibodies are detectable"
+    },
+    {
+        "validation_Clinical_Medicine_23": "A"
+    },
+    {
+        "validation_Clinical_Medicine_6": "(A) Apoptosis"
+    },
+    {
+        "validation_Clinical_Medicine_22": "(A) Keratoacanthomas"
+    },
+    {
+        "validation_Clinical_Medicine_27": "B"
+    },
+    {
+        "validation_Clinical_Medicine_11": "D"
+    },
+    {
+        "validation_Clinical_Medicine_20": "A"
+    },
+    {
+        "validation_Clinical_Medicine_21": "C"
+    },
+    {
+        "validation_Clinical_Medicine_10": "A"
+    },
+    {
+        "validation_Clinical_Medicine_7": "C"
+    },
+    {
+        "validation_Clinical_Medicine_19": "A"
+    },
+    {
+        "validation_Clinical_Medicine_4": "C"
+    },
+    {
+        "validation_Clinical_Medicine_1": "(A) Erythrocyte sedimentation rate of 50 mm/hr"
+    },
+    {
+        "validation_Clinical_Medicine_16": "(B) Berry aneurysm rupture"
+    },
+    {
+        "validation_Clinical_Medicine_18": "(A) Normal Sinus Rhythm"
+    },
+    {
+        "validation_Clinical_Medicine_24": "A"
+    },
+    {
+        "validation_Clinical_Medicine_12": "(A) Infiltrating ductal carcinoma"
+    },
+    {
+        "validation_Clinical_Medicine_15": "A"
+    },
+    {
+        "validation_Clinical_Medicine_29": "(A) Fissuring ulcer"
+    },
+    {
+        "validation_Clinical_Medicine_3": "A"
+    },
+    {
+        "validation_Clinical_Medicine_5": "A"
+    },
+    {
+        "validation_Clinical_Medicine_28": "(D) Diffuse scleroderma"
+    },
+    {
+        "validation_Clinical_Medicine_2": "D"
+    },
+    {
+        "validation_Clinical_Medicine_14": "C"
+    },
+    {
+        "validation_Clinical_Medicine_9": "(D)"
+    },
+    {
+        "validation_Computer_Science_30": "(A) X=20, Y=30"
+    },
+    {
+        "validation_Computer_Science_17": "C"
+    },
+    {
+        "validation_Computer_Science_8": "(C) 12"
+    },
+    {
+        "validation_Computer_Science_26": "95"
+    },
+    {
+        "validation_Computer_Science_25": "B"
+    },
+    {
+        "validation_Computer_Science_23": "250"
+    },
+    {
+        "validation_Computer_Science_6": "B"
+    },
+    {
+        "validation_Computer_Science_22": "(D) a*|b*"
+    },
+    {
+        "validation_Computer_Science_27": "(A)"
+    },
+    {
+        "validation_Computer_Science_20": "B"
+    },
+    {
+        "validation_Computer_Science_21": "(D) spiral traversal of the matrix."
+    },
+    {
+        "validation_Computer_Science_10": "(D) 8"
+    },
+    {
+        "validation_Computer_Science_7": "(D) 42, 46, 33, 23, 34, 52"
+    },
+    {
+        "validation_Computer_Science_19": "(D) (d-f),(a-b),(b-f),(d-e),(d-c)"
+    },
+    {
+        "validation_Computer_Science_4": "A"
+    },
+    {
+        "validation_Computer_Science_1": "D"
+    },
+    {
+        "validation_Computer_Science_16": "D"
+    },
+    {
+        "validation_Computer_Science_18": "B"
+    },
+    {
+        "validation_Computer_Science_24": "D"
+    },
+    {
+        "validation_Computer_Science_13": "A"
+    },
+    {
+        "validation_Computer_Science_12": "D"
+    },
+    {
+        "validation_Computer_Science_15": "(D) N:M"
+    },
+    {
+        "validation_Computer_Science_29": "C"
+    },
+    {
+        "validation_Computer_Science_3": "(D) Link Layer"
+    },
+    {
+        "validation_Computer_Science_5": "D"
+    },
+    {
+        "validation_Computer_Science_2": "(A) 8 is NOT the root"
+    },
+    {
+        "validation_Computer_Science_14": "(C) T1 -> T2 -> T3"
+    },
+    {
+        "validation_Computer_Science_9": "120"
+    },
+    {
+        "validation_Design_30": "C"
+    },
+    {
+        "validation_Design_17": "C"
+    },
+    {
+        "validation_Design_8": "C"
+    },
+    {
+        "validation_Design_26": "B"
+    },
+    {
+        "validation_Design_25": "D"
+    },
+    {
+        "validation_Design_23": "D"
+    },
+    {
+        "validation_Design_6": "A"
+    },
+    {
+        "validation_Design_22": "C"
+    },
+    {
+        "validation_Design_27": "B"
+    },
+    {
+        "validation_Design_11": "C"
+    },
+    {
+        "validation_Design_20": "B"
+    },
+    {
+        "validation_Design_21": "D"
+    },
+    {
+        "validation_Design_10": "D"
+    },
+    {
+        "validation_Design_7": "A"
+    },
+    {
+        "validation_Design_19": "D"
+    },
+    {
+        "validation_Design_4": "A"
+    },
+    {
+        "validation_Design_1": "C"
+    },
+    {
+        "validation_Design_16": "(D) Triadic Color Scheme"
+    },
+    {
+        "validation_Design_18": "C"
+    },
+    {
+        "validation_Design_24": "B"
+    },
+    {
+        "validation_Design_13": "C"
+    },
+    {
+        "validation_Design_12": "A"
+    },
+    {
+        "validation_Design_15": "B"
+    },
+    {
+        "validation_Design_29": "B"
+    },
+    {
+        "validation_Design_3": "D"
+    },
+    {
+        "validation_Design_5": "D"
+    },
+    {
+        "validation_Design_28": "B"
+    },
+    {
+        "validation_Design_2": "D"
+    },
+    {
+        "validation_Design_14": "(D) fourteenth or fifteenth century C. E."
+    },
+    {
+        "validation_Design_9": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_30": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_17": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_8": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_26": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_25": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_23": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_6": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_22": "(D) also has binucleate neurons"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_27": "E"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_11": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_20": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_21": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_10": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_7": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_19": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_4": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_1": "(D) This represents a gliotic scar in an infarct"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_18": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_24": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_13": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_12": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_15": "E"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_29": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_3": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_5": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_28": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_2": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_14": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_9": "D"
+    },
+    {
+        "validation_Economics_30": "A"
+    },
+    {
+        "validation_Economics_17": "(C) 2634"
+    },
+    {
+        "validation_Economics_8": "A"
+    },
+    {
+        "validation_Economics_26": "(D)"
+    },
+    {
+        "validation_Economics_23": "(A) $4118"
+    },
+    {
+        "validation_Economics_6": "(A) 0.17"
+    },
+    {
+        "validation_Economics_22": "(A)"
+    },
+    {
+        "validation_Economics_27": "(A) 100"
+    },
+    {
+        "validation_Economics_11": "A"
+    },
+    {
+        "validation_Economics_20": "1.5"
+    },
+    {
+        "validation_Economics_21": "B"
+    },
+    {
+        "validation_Economics_10": "(A) excess supply"
+    },
+    {
+        "validation_Economics_7": "(D) 600"
+    },
+    {
+        "validation_Economics_19": "A"
+    },
+    {
+        "validation_Economics_4": "E"
+    },
+    {
+        "validation_Economics_1": "(D) 3418"
+    },
+    {
+        "validation_Economics_16": "(D) 11"
+    },
+    {
+        "validation_Economics_18": "A"
+    },
+    {
+        "validation_Economics_24": "B"
+    },
+    {
+        "validation_Economics_13": "(D) $42,450"
+    },
+    {
+        "validation_Economics_12": "(C) 20"
+    },
+    {
+        "validation_Economics_15": "C"
+    },
+    {
+        "validation_Economics_29": "(A) 2001:$10.70; 2002:$13.80; 2003:$15.35; 2004:$16.31"
+    },
+    {
+        "validation_Economics_3": "(D) -700,350,0"
+    },
+    {
+        "validation_Economics_5": "B"
+    },
+    {
+        "validation_Economics_28": "A"
+    },
+    {
+        "validation_Economics_2": "A"
+    },
+    {
+        "validation_Economics_9": "(A) moves to C."
+    },
+    {
+        "validation_Electronics_30": "0"
+    },
+    {
+        "validation_Electronics_17": "(A) 10e^{-0.8t} V"
+    },
+    {
+        "validation_Electronics_8": "A"
+    },
+    {
+        "validation_Electronics_26": "1000000"
+    },
+    {
+        "validation_Electronics_25": "1000"
+    },
+    {
+        "validation_Electronics_23": "(A) $C\\_0 sin wt cos t + 2w C\\_0 cos wt (1 + 0.5 sin t)$"
+    },
+    {
+        "validation_Electronics_6": "10.0"
+    },
+    {
+        "validation_Electronics_22": "(A) [70.7 cos (20t - 60^{\\circ})] u(t) V"
+    },
+    {
+        "validation_Electronics_27": "180"
+    },
+    {
+        "validation_Electronics_11": "0.05"
+    },
+    {
+        "validation_Electronics_20": "(D) $\\pi x 10^-4 A$"
+    },
+    {
+        "validation_Electronics_21": "0.01"
+    },
+    {
+        "validation_Electronics_10": "(A) 0.125 + j0.330"
+    },
+    {
+        "validation_Electronics_7": "C"
+    },
+    {
+        "validation_Electronics_19": "(D) 90 sin(2t) V"
+    },
+    {
+        "validation_Electronics_4": "0.5"
+    },
+    {
+        "validation_Electronics_1": "B"
+    },
+    {
+        "validation_Electronics_16": "100"
+    },
+    {
+        "validation_Electronics_18": "(A) 2 e^{-2t} u(t)"
+    },
+    {
+        "validation_Electronics_24": "100"
+    },
+    {
+        "validation_Electronics_13": "(A) [(1 - e^{-s(T/2)}) / {s(1 - e^{-sT})}]"
+    },
+    {
+        "validation_Electronics_12": "10"
+    },
+    {
+        "validation_Electronics_15": "(A) $[1 + sech^2 (sin t)] cos t$"
+    },
+    {
+        "validation_Electronics_29": "0"
+    },
+    {
+        "validation_Electronics_3": "(C) t + (1 / 10) (e^{-10t} - 1) V"
+    },
+    {
+        "validation_Electronics_5": "5.66"
+    },
+    {
+        "validation_Electronics_28": "C"
+    },
+    {
+        "validation_Electronics_2": "1.0"
+    },
+    {
+        "validation_Electronics_14": "(A)"
+    },
+    {
+        "validation_Electronics_9": "(A)"
+    },
+    {
+        "validation_Energy_and_Power_30": "(A) -10.0 kg/s"
+    },
+    {
+        "validation_Energy_and_Power_17": "(C) 90 m"
+    },
+    {
+        "validation_Energy_and_Power_8": "(A) 38.8 cm"
+    },
+    {
+        "validation_Energy_and_Power_26": "(C) 3400 lbf/ft^2"
+    },
+    {
+        "validation_Energy_and_Power_25": "(C)"
+    },
+    {
+        "validation_Energy_and_Power_23": "(C) 0.362 m"
+    },
+    {
+        "validation_Energy_and_Power_6": "C"
+    },
+    {
+        "validation_Energy_and_Power_22": "(C) 1.56E6 Pa"
+    },
+    {
+        "validation_Energy_and_Power_27": "(A) F=689.4N"
+    },
+    {
+        "validation_Energy_and_Power_11": "(D)  $\\Delta $T > 0, Q < 0"
+    },
+    {
+        "validation_Energy_and_Power_20": "(A) W' =-6.3MW"
+    },
+    {
+        "validation_Energy_and_Power_21": "(C) 98,000 Pa"
+    },
+    {
+        "validation_Energy_and_Power_10": "(D) 0.51 W/m K"
+    },
+    {
+        "validation_Energy_and_Power_7": "(A) 4.07, 31.8 kW"
+    },
+    {
+        "validation_Energy_and_Power_19": "(A) 99,000 N"
+    },
+    {
+        "validation_Energy_and_Power_4": "(A) $0.00147\\frac{Btu}{lbm\\cdotR}$"
+    },
+    {
+        "validation_Energy_and_Power_1": "(A) 340.93K"
+    },
+    {
+        "validation_Energy_and_Power_16": "(A) 2.64"
+    },
+    {
+        "validation_Energy_and_Power_18": "(C) 0.3 kW"
+    },
+    {
+        "validation_Energy_and_Power_24": "(D) E1 + E2"
+    },
+    {
+        "validation_Energy_and_Power_13": "(A) q=0.28"
+    },
+    {
+        "validation_Energy_and_Power_12": "(A) W=817Btu"
+    },
+    {
+        "validation_Energy_and_Power_15": "(A) 0.0174 m^3/s"
+    },
+    {
+        "validation_Energy_and_Power_29": "(A) 540 hp"
+    },
+    {
+        "validation_Energy_and_Power_3": "(B) 4.19 kg/s"
+    },
+    {
+        "validation_Energy_and_Power_5": "(C) 25 lbf"
+    },
+    {
+        "validation_Energy_and_Power_28": "(A)"
+    },
+    {
+        "validation_Energy_and_Power_2": "(A) 0.32 0.67"
+    },
+    {
+        "validation_Energy_and_Power_14": "(C) 1.52 m"
+    },
+    {
+        "validation_Energy_and_Power_9": "(C) 26100 Pa"
+    },
+    {
+        "validation_Finance_30": "10.25"
+    },
+    {
+        "validation_Finance_17": "100"
+    },
+    {
+        "validation_Finance_8": "1000"
+    },
+    {
+        "validation_Finance_26": "(A)"
+    },
+    {
+        "validation_Finance_25": "$1.00"
+    },
+    {
+        "validation_Finance_23": "$200"
+    },
+    {
+        "validation_Finance_6": "(D) 9%"
+    },
+    {
+        "validation_Finance_22": "A"
+    },
+    {
+        "validation_Finance_27": "(A) 7.5%"
+    },
+    {
+        "validation_Finance_11": "(D)"
+    },
+    {
+        "validation_Finance_20": "200000"
+    },
+    {
+        "validation_Finance_21": "(A) $2,100"
+    },
+    {
+        "validation_Finance_10": "1.6 million"
+    },
+    {
+        "validation_Finance_7": "(D) Month 3: $119,000; Month 4: $100,000"
+    },
+    {
+        "validation_Finance_19": "(D) 0.8194"
+    },
+    {
+        "validation_Finance_4": "(D) $18,000,000"
+    },
+    {
+        "validation_Finance_1": "A"
+    },
+    {
+        "validation_Finance_16": "(A) 7.5%"
+    },
+    {
+        "validation_Finance_18": "(D) 15.5%"
+    },
+    {
+        "validation_Finance_24": "10"
+    },
+    {
+        "validation_Finance_13": "(A) $7.25"
+    },
+    {
+        "validation_Finance_12": "B"
+    },
+    {
+        "validation_Finance_15": "(D) Project A: 18%; Project B: 23.37%"
+    },
+    {
+        "validation_Finance_29": "D"
+    },
+    {
+        "validation_Finance_3": "(A) $126,827"
+    },
+    {
+        "validation_Finance_5": "(D)"
+    },
+    {
+        "validation_Finance_28": "(A) 5.58"
+    },
+    {
+        "validation_Finance_2": "(D) 15.5%"
+    },
+    {
+        "validation_Finance_14": "A"
+    },
+    {
+        "validation_Finance_9": "(A) $4 million"
+    },
+    {
+        "validation_Geography_30": "(A) 10.7m"
+    },
+    {
+        "validation_Geography_17": "D"
+    },
+    {
+        "validation_Geography_8": "(C) 115kPa"
+    },
+    {
+        "validation_Geography_26": "C"
+    },
+    {
+        "validation_Geography_25": "(A) The roll waterproof layer is laid on the upstream surface of the external wall"
+    },
+    {
+        "validation_Geography_23": "(D) Equilateral angle steel"
+    },
+    {
+        "validation_Geography_6": "(D) 24"
+    },
+    {
+        "validation_Geography_22": "1"
+    },
+    {
+        "validation_Geography_27": "C"
+    },
+    {
+        "validation_Geography_11": "D"
+    },
+    {
+        "validation_Geography_20": "(B) 1.3"
+    },
+    {
+        "validation_Geography_21": "B"
+    },
+    {
+        "validation_Geography_10": "D"
+    },
+    {
+        "validation_Geography_7": "A"
+    },
+    {
+        "validation_Geography_19": "D"
+    },
+    {
+        "validation_Geography_4": "Beach"
+    },
+    {
+        "validation_Geography_1": "(A) 12.0kN.m, -3kN.m"
+    },
+    {
+        "validation_Geography_18": "A"
+    },
+    {
+        "validation_Geography_24": "(A) Static penetration test"
+    },
+    {
+        "validation_Geography_13": "B"
+    },
+    {
+        "validation_Geography_12": "A"
+    },
+    {
+        "validation_Geography_15": "(D) None"
+    },
+    {
+        "validation_Geography_29": "D"
+    },
+    {
+        "validation_Geography_3": "C"
+    },
+    {
+        "validation_Geography_5": "(D) 1A, and 1.5A"
+    },
+    {
+        "validation_Geography_28": "B"
+    },
+    {
+        "validation_Geography_2": "B"
+    },
+    {
+        "validation_Geography_14": "1050"
+    },
+    {
+        "validation_Geography_9": "A"
+    },
+    {
+        "validation_History_30": "(A) British ships did not sail along the west coast of Africa during this period."
+    },
+    {
+        "validation_History_17": "D"
+    },
+    {
+        "validation_History_8": "B"
+    },
+    {
+        "validation_History_26": "(C) Catholic regions were more likely to expel Jewish people than other regions."
+    },
+    {
+        "validation_History_25": "A"
+    },
+    {
+        "validation_History_23": "D"
+    },
+    {
+        "validation_History_6": "(D) The Soviet Union saw communism as a theoretical concept, while Marx attempted to implement a communist society"
+    },
+    {
+        "validation_History_22": "A"
+    },
+    {
+        "validation_History_27": "(C) The Han dynasty imposed political unity where there had previously been competing states."
+    },
+    {
+        "validation_History_11": "(A) Netherlands"
+    },
+    {
+        "validation_History_20": "B"
+    },
+    {
+        "validation_History_21": "A"
+    },
+    {
+        "validation_History_10": "(A) World War I is the crime of the ages"
+    },
+    {
+        "validation_History_7": "A"
+    },
+    {
+        "validation_History_19": "(D) Fortifications were built to project military power and defend against invasions."
+    },
+    {
+        "validation_History_4": "C"
+    },
+    {
+        "validation_History_1": "(B)"
+    },
+    {
+        "validation_History_16": "(C) The development of religious syncretism as cultural traditions spread"
+    },
+    {
+        "validation_History_24": "C"
+    },
+    {
+        "validation_History_13": "(A) The capital of West Germany was located in East Germany"
+    },
+    {
+        "validation_History_12": "(B) Francis II and Mary Queen of Scots"
+    },
+    {
+        "validation_History_29": "D"
+    },
+    {
+        "validation_History_3": "A"
+    },
+    {
+        "validation_History_5": "(B) Control of those countries by the Soviet Union until the end of the Cold War"
+    },
+    {
+        "validation_History_28": "(A) Women in Japan exercised influence on society, despite the persistence of patriarchy elsewhere."
+    },
+    {
+        "validation_History_2": "(A) The compromise ending Reconstruction"
+    },
+    {
+        "validation_History_14": "C"
+    },
+    {
+        "validation_History_9": "B"
+    },
+    {
+        "validation_Literature_30": "D"
+    },
+    {
+        "validation_Literature_17": "B"
+    },
+    {
+        "validation_Literature_8": "B"
+    },
+    {
+        "validation_Literature_26": "D"
+    },
+    {
+        "validation_Literature_25": "B"
+    },
+    {
+        "validation_Literature_23": "D"
+    },
+    {
+        "validation_Literature_6": "B"
+    },
+    {
+        "validation_Literature_22": "A"
+    },
+    {
+        "validation_Literature_27": "A"
+    },
+    {
+        "validation_Literature_11": "B"
+    },
+    {
+        "validation_Literature_20": "(C) Hold on to your dreams."
+    },
+    {
+        "validation_Literature_21": "C"
+    },
+    {
+        "validation_Literature_10": "D"
+    },
+    {
+        "validation_Literature_7": "A"
+    },
+    {
+        "validation_Literature_19": "B"
+    },
+    {
+        "validation_Literature_4": "D"
+    },
+    {
+        "validation_Literature_1": "C"
+    },
+    {
+        "validation_Literature_16": "A"
+    },
+    {
+        "validation_Literature_18": "C"
+    },
+    {
+        "validation_Literature_24": "A"
+    },
+    {
+        "validation_Literature_13": "D"
+    },
+    {
+        "validation_Literature_12": "A"
+    },
+    {
+        "validation_Literature_15": "D"
+    },
+    {
+        "validation_Literature_29": "D"
+    },
+    {
+        "validation_Literature_3": "C"
+    },
+    {
+        "validation_Literature_28": "D"
+    },
+    {
+        "validation_Literature_2": "D"
+    },
+    {
+        "validation_Literature_14": "B"
+    },
+    {
+        "validation_Literature_9": "A"
+    },
+    {
+        "validation_Manage_30": "E"
+    },
+    {
+        "validation_Manage_17": "1.4"
+    },
+    {
+        "validation_Manage_8": "(D) September"
+    },
+    {
+        "validation_Manage_26": "D"
+    },
+    {
+        "validation_Manage_25": "0.0"
+    },
+    {
+        "validation_Manage_23": "1000"
+    },
+    {
+        "validation_Manage_6": "(D) synthetic"
+    },
+    {
+        "validation_Manage_22": "D"
+    },
+    {
+        "validation_Manage_27": "(A) Spirit"
+    },
+    {
+        "validation_Manage_11": "(A) vague"
+    },
+    {
+        "validation_Manage_21": "$6.75"
+    },
+    {
+        "validation_Manage_10": "(D) Strategy"
+    },
+    {
+        "validation_Manage_7": "C"
+    },
+    {
+        "validation_Manage_19": "D"
+    },
+    {
+        "validation_Manage_4": "(C) 27030"
+    },
+    {
+        "validation_Manage_1": "B"
+    },
+    {
+        "validation_Manage_16": "B"
+    },
+    {
+        "validation_Manage_18": "A"
+    },
+    {
+        "validation_Manage_24": "(D) 4"
+    },
+    {
+        "validation_Manage_13": "(C) M: $60,000: N: $51,996; T: $8,004;"
+    },
+    {
+        "validation_Manage_12": "A"
+    },
+    {
+        "validation_Manage_15": "D"
+    },
+    {
+        "validation_Manage_29": "A"
+    },
+    {
+        "validation_Manage_3": "$277"
+    },
+    {
+        "validation_Manage_5": "C"
+    },
+    {
+        "validation_Manage_28": "(D) responsible resource management."
+    },
+    {
+        "validation_Manage_2": "A"
+    },
+    {
+        "validation_Manage_14": "B"
+    },
+    {
+        "validation_Manage_9": "B"
+    },
+    {
+        "validation_Marketing_30": "A"
+    },
+    {
+        "validation_Marketing_17": "(C) 14.98 ounces"
+    },
+    {
+        "validation_Marketing_8": "B"
+    },
+    {
+        "validation_Marketing_26": "(A) 0.55"
+    },
+    {
+        "validation_Marketing_25": "(A) -1.96"
+    },
+    {
+        "validation_Marketing_23": "(A) 0.62"
+    },
+    {
+        "validation_Marketing_6": "B"
+    },
+    {
+        "validation_Marketing_22": "(A) 0.5"
+    },
+    {
+        "validation_Marketing_27": "(A) 1/38"
+    },
+    {
+        "validation_Marketing_11": "0.0"
+    },
+    {
+        "validation_Marketing_20": "(A) 1/38"
+    },
+    {
+        "validation_Marketing_21": "(C) 3"
+    },
+    {
+        "validation_Marketing_10": "C"
+    },
+    {
+        "validation_Marketing_7": "(D) (2.93, 3.59)"
+    },
+    {
+        "validation_Marketing_19": "(A) 1.56"
+    },
+    {
+        "validation_Marketing_4": "C"
+    },
+    {
+        "validation_Marketing_1": "(C) 2,328.1"
+    },
+    {
+        "validation_Marketing_16": "(D) 95.50%"
+    },
+    {
+        "validation_Marketing_18": "A"
+    },
+    {
+        "validation_Marketing_24": "A"
+    },
+    {
+        "validation_Marketing_13": "(D) 1-IV, 2-III, 3-II, 4-I"
+    },
+    {
+        "validation_Marketing_12": "(A) 4.5963"
+    },
+    {
+        "validation_Marketing_15": "(B) There is sufficient evidence that types of fries and location are dependent."
+    },
+    {
+        "validation_Marketing_29": "(D) 4189/12351"
+    },
+    {
+        "validation_Marketing_3": "(A) -.62,.22"
+    },
+    {
+        "validation_Marketing_5": "(B)"
+    },
+    {
+        "validation_Marketing_28": "B"
+    },
+    {
+        "validation_Marketing_2": "(B) 3"
+    },
+    {
+        "validation_Marketing_14": "(C) 0.5"
+    },
+    {
+        "validation_Marketing_9": "(A) 0.0050"
+    },
+    {
+        "validation_Materials_30": "(A) 0.00443 mm/mm"
+    },
+    {
+        "validation_Materials_17": "(A) 122 psi"
+    },
+    {
+        "validation_Materials_8": "(A) 57.4%"
+    },
+    {
+        "validation_Materials_26": "(A) Na=500 lb, Va=250 lb"
+    },
+    {
+        "validation_Materials_25": "(D) 0.863 g/cm^3"
+    },
+    {
+        "validation_Materials_23": "(A) 10.9 mm"
+    },
+    {
+        "validation_Materials_6": "(D) [-430]"
+    },
+    {
+        "validation_Materials_22": "(A) 0.0556 in^2"
+    },
+    {
+        "validation_Materials_27": "(D) 250 psi"
+    },
+    {
+        "validation_Materials_11": "(A) 1.41 kN"
+    },
+    {
+        "validation_Materials_20": "(D) 0.0281*10^(-3) mm/mm"
+    },
+    {
+        "validation_Materials_21": "(D) N\\_D=0, V\\_D=4.50 kip, M\\_D=36.0 kip·ft"
+    },
+    {
+        "validation_Materials_7": "(B) Pa/(bhG)"
+    },
+    {
+        "validation_Materials_19": "(D) 12.8*10^(-3) mm/mm"
+    },
+    {
+        "validation_Materials_4": "(C) 43.7 MPa"
+    },
+    {
+        "validation_Materials_1": "A"
+    },
+    {
+        "validation_Materials_16": "(A) 58.4 kip"
+    },
+    {
+        "validation_Materials_18": "(D) 4.00*10^(-6) mm/mm"
+    },
+    {
+        "validation_Materials_24": "(D) SC {110}"
+    },
+    {
+        "validation_Materials_13": "(D) 16.6*10^(-3) rad"
+    },
+    {
+        "validation_Materials_12": "(D) 2 MPa"
+    },
+    {
+        "validation_Materials_29": "(C) SC"
+    },
+    {
+        "validation_Materials_3": "(D) 1.10 MPa"
+    },
+    {
+        "validation_Materials_5": "(A) 48 kg"
+    },
+    {
+        "validation_Materials_2": "(D) (P/2A)sin^2($\\theta$)"
+    },
+    {
+        "validation_Materials_14": "A"
+    },
+    {
+        "validation_Materials_9": "(C) 40.5 MPa"
+    },
+    {
+        "validation_Math_30": "(D) $1-\\frac{\\sqrt{2}}{4}$"
+    },
+    {
+        "validation_Math_17": "(A) $\\theta = \\pi /2$"
+    },
+    {
+        "validation_Math_8": "(C) 3 boats of Type 1 and 2 boats of Type 2"
+    },
+    {
+        "validation_Math_26": "(A) $\\int_{0}^{a}\\left[g(x)-f(x)\\right]d x$"
+    },
+    {
+        "validation_Math_25": "(A) $\\theta $ = 0.524"
+    },
+    {
+        "validation_Math_23": "(B) h = 80 ft"
+    },
+    {
+        "validation_Math_6": "(C) 3"
+    },
+    {
+        "validation_Math_22": "(D) 194"
+    },
+    {
+        "validation_Math_27": "(C) 6.7"
+    },
+    {
+        "validation_Math_11": "B"
+    },
+    {
+        "validation_Math_20": "C"
+    },
+    {
+        "validation_Math_21": "C"
+    },
+    {
+        "validation_Math_10": "(A) not all edges are the same length"
+    },
+    {
+        "validation_Math_7": "(D)"
+    },
+    {
+        "validation_Math_4": "(D) $y=\\sin \\pix$"
+    },
+    {
+        "validation_Math_1": "C"
+    },
+    {
+        "validation_Math_16": "(D) (2, 1)"
+    },
+    {
+        "validation_Math_18": "A"
+    },
+    {
+        "validation_Math_24": "(C) r = R/3"
+    },
+    {
+        "validation_Math_13": "(C) $16+16 \\sqrt{2}-16 \\sqrt{3}$"
+    },
+    {
+        "validation_Math_12": "C"
+    },
+    {
+        "validation_Math_15": "1 foot per second"
+    },
+    {
+        "validation_Math_29": "(A) 1.9"
+    },
+    {
+        "validation_Math_5": "(D) $\\int_{0}^{2}[g(x)-f(x)]\\,d x$"
+    },
+    {
+        "validation_Math_28": "A"
+    },
+    {
+        "validation_Math_2": "D"
+    },
+    {
+        "validation_Math_14": "(D) (a+b)/6+3"
+    },
+    {
+        "validation_Math_9": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_30": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_17": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_8": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_26": "(D) D"
+    },
+    {
+        "validation_Mechanical_Engineering_25": "(A) $R_{A}=R_{C}=-2.429kips$"
+    },
+    {
+        "validation_Mechanical_Engineering_23": "(A) 11456lb"
+    },
+    {
+        "validation_Mechanical_Engineering_6": "(A) $D=\\frac{1}{C_{2}}\\ln(1+\\frac{C_{2}}{C_{1}}v_{0}^{2})$"
+    },
+    {
+        "validation_Mechanical_Engineering_22": "(A) 7522lb,1643lb"
+    },
+    {
+        "validation_Mechanical_Engineering_27": "(A) F=7490lbf"
+    },
+    {
+        "validation_Mechanical_Engineering_11": "(A) 41.7Mpa,44.83Mpa"
+    },
+    {
+        "validation_Mechanical_Engineering_20": "(A) 5kN"
+    },
+    {
+        "validation_Mechanical_Engineering_21": "(A) h=125.358m,t=27.62s"
+    },
+    {
+        "validation_Mechanical_Engineering_10": "(A) $k\\_{eq}=4.80\\cdot10^{7}\\frac{N}{m}$"
+    },
+    {
+        "validation_Mechanical_Engineering_7": "(A) 3.8-hp input,2.3-hp output"
+    },
+    {
+        "validation_Mechanical_Engineering_4": "(A) $q_{0}=250.7403\\frac{kN}{m}$"
+    },
+    {
+        "validation_Mechanical_Engineering_1": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_16": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_18": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_24": "(A) -2.77 ksi"
+    },
+    {
+        "validation_Mechanical_Engineering_13": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_12": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_15": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_29": "(A)"
+    },
+    {
+        "validation_Mechanical_Engineering_3": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_5": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_28": "(A) 17.59"
+    },
+    {
+        "validation_Mechanical_Engineering_2": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_14": "(A) 9673J,2218N⋅m"
+    },
+    {
+        "validation_Mechanical_Engineering_9": "(A) K2=0.6,K1=0.277"
+    },
+    {
+        "validation_Music_30": "A"
+    },
+    {
+        "validation_Music_17": "A"
+    },
+    {
+        "validation_Music_8": "A"
+    },
+    {
+        "validation_Music_26": "A"
+    },
+    {
+        "validation_Music_25": "A"
+    },
+    {
+        "validation_Music_6": "A"
+    },
+    {
+        "validation_Music_22": "A"
+    },
+    {
+        "validation_Music_27": "C"
+    },
+    {
+        "validation_Music_11": "A"
+    },
+    {
+        "validation_Music_20": "D"
+    },
+    {
+        "validation_Music_10": "B"
+    },
+    {
+        "validation_Music_7": "(B) Vc"
+    },
+    {
+        "validation_Music_19": "C"
+    },
+    {
+        "validation_Music_4": "C"
+    },
+    {
+        "validation_Music_18": "B"
+    },
+    {
+        "validation_Music_24": "B"
+    },
+    {
+        "validation_Music_13": "(D) AB"
+    },
+    {
+        "validation_Music_12": "B"
+    },
+    {
+        "validation_Music_15": "A"
+    },
+    {
+        "validation_Music_3": "A"
+    },
+    {
+        "validation_Music_5": "B"
+    },
+    {
+        "validation_Music_28": "C"
+    },
+    {
+        "validation_Music_2": "B"
+    },
+    {
+        "validation_Music_14": "C"
+    },
+    {
+        "validation_Music_9": "(B) CD"
+    },
+    {
+        "validation_Pharmacy_30": "(A) 7.2 Calories/g;0.3 kg;2*10^3$\\mu $g;1"
+    },
+    {
+        "validation_Pharmacy_17": "D"
+    },
+    {
+        "validation_Pharmacy_8": "(B) pH"
+    },
+    {
+        "validation_Pharmacy_26": "A"
+    },
+    {
+        "validation_Pharmacy_25": "D"
+    },
+    {
+        "validation_Pharmacy_23": "(A) The cyclisation is defined as 6-exo-tet and is allowed by Baldwin's rules"
+    },
+    {
+        "validation_Pharmacy_6": "D"
+    },
+    {
+        "validation_Pharmacy_27": "(D) 50.0%,0.50 mol,0.05 mol,20.0%"
+    },
+    {
+        "validation_Pharmacy_11": "A"
+    },
+    {
+        "validation_Pharmacy_20": "(C) oxygen, silicon, iron, calcium"
+    },
+    {
+        "validation_Pharmacy_21": "(C) Base pairing between adenine and thymine is disrupted by the agent."
+    },
+    {
+        "validation_Pharmacy_10": "A"
+    },
+    {
+        "validation_Pharmacy_7": "A"
+    },
+    {
+        "validation_Pharmacy_19": "Step d"
+    },
+    {
+        "validation_Pharmacy_1": "(C) 4.0 mol of NH3,2.0 mol of N2,6.0 mol of H2O"
+    },
+    {
+        "validation_Pharmacy_16": "(A) 1,2"
+    },
+    {
+        "validation_Pharmacy_24": "A"
+    },
+    {
+        "validation_Pharmacy_13": "A"
+    },
+    {
+        "validation_Pharmacy_12": "(B) False"
+    },
+    {
+        "validation_Pharmacy_15": "B"
+    },
+    {
+        "validation_Pharmacy_29": "A"
+    },
+    {
+        "validation_Pharmacy_3": "3"
+    },
+    {
+        "validation_Pharmacy_5": "(D) H,H"
+    },
+    {
+        "validation_Pharmacy_28": "D"
+    },
+    {
+        "validation_Pharmacy_2": "(D) leukotriene receptors"
+    },
+    {
+        "validation_Pharmacy_14": "(D) Haemophilis ducreyi"
+    },
+    {
+        "validation_Pharmacy_9": "A"
+    },
+    {
+        "validation_Physics_30": "(A) 0.25 m"
+    },
+    {
+        "validation_Physics_17": "A"
+    },
+    {
+        "validation_Physics_8": "D"
+    },
+    {
+        "validation_Physics_26": "A"
+    },
+    {
+        "validation_Physics_25": "(A) Virtual/Larger"
+    },
+    {
+        "validation_Physics_23": "(B) 5 A, counterclockwise"
+    },
+    {
+        "validation_Physics_6": "A"
+    },
+    {
+        "validation_Physics_22": "B"
+    },
+    {
+        "validation_Physics_27": "(D) S and U"
+    },
+    {
+        "validation_Physics_11": "A"
+    },
+    {
+        "validation_Physics_20": "A"
+    },
+    {
+        "validation_Physics_21": "A"
+    },
+    {
+        "validation_Physics_10": "(D)"
+    },
+    {
+        "validation_Physics_7": "A"
+    },
+    {
+        "validation_Physics_19": "A"
+    },
+    {
+        "validation_Physics_4": "(A) 0.44"
+    },
+    {
+        "validation_Physics_1": "(B) To the right"
+    },
+    {
+        "validation_Physics_16": "(D) The average velocity is zero."
+    },
+    {
+        "validation_Physics_18": "D"
+    },
+    {
+        "validation_Physics_24": "D"
+    },
+    {
+        "validation_Physics_13": "(D) Between 2 and 3 s"
+    },
+    {
+        "validation_Physics_12": "D"
+    },
+    {
+        "validation_Physics_15": "(C) $\\lambda $/2"
+    },
+    {
+        "validation_Physics_29": "A"
+    },
+    {
+        "validation_Physics_3": "(D) downward in the plane of the page"
+    },
+    {
+        "validation_Physics_5": "(C) 3.5 cm/s"
+    },
+    {
+        "validation_Physics_28": "(C) T cos $\\theta $"
+    },
+    {
+        "validation_Physics_2": "(A) To the right/To the right"
+    },
+    {
+        "validation_Physics_14": "(B) v\\_1 > v\\_2 > v\\_3"
+    },
+    {
+        "validation_Physics_9": "E"
+    },
+    {
+        "validation_Psychology_8": "(A) 3"
+    },
+    {
+        "validation_Psychology_26": "(B) 5"
+    },
+    {
+        "validation_Psychology_25": "A"
+    },
+    {
+        "validation_Psychology_23": "(D)"
+    },
+    {
+        "validation_Psychology_6": "(A) A"
+    },
+    {
+        "validation_Psychology_22": "(D) Avoidance focused coping because patients distance themselves from their physiological reaction to stressful experiences."
+    },
+    {
+        "validation_Psychology_27": "E"
+    },
+    {
+        "validation_Psychology_11": "(B) It is a structure with few cycles, low redundancy, and sparse density."
+    },
+    {
+        "validation_Psychology_20": "Fetal"
+    },
+    {
+        "validation_Psychology_10": "(D) Temporal lobe, parietal lobe, occipital lobe, frontal lobe"
+    },
+    {
+        "validation_Psychology_7": "A"
+    },
+    {
+        "validation_Psychology_19": "(B) The singers were not the same gender"
+    },
+    {
+        "validation_Psychology_4": "C"
+    },
+    {
+        "validation_Psychology_16": "D"
+    },
+    {
+        "validation_Psychology_18": "(C) Individuals who were addicted to opiates and received medication post release only."
+    },
+    {
+        "validation_Psychology_24": "D"
+    },
+    {
+        "validation_Psychology_13": "B"
+    },
+    {
+        "validation_Psychology_12": "D"
+    },
+    {
+        "validation_Psychology_15": "E"
+    },
+    {
+        "validation_Psychology_29": "(B)"
+    },
+    {
+        "validation_Psychology_3": "C"
+    },
+    {
+        "validation_Psychology_5": "D"
+    },
+    {
+        "validation_Psychology_28": "A"
+    },
+    {
+        "validation_Psychology_2": "A"
+    },
+    {
+        "validation_Psychology_14": "(D) An experienced driver's existing schema does not match an oncoming car"
+    },
+    {
+        "validation_Psychology_9": "D"
+    },
+    {
+        "validation_Public_Health_30": "(D) 8.67"
+    },
+    {
+        "validation_Public_Health_17": "(D) (48.0-25.4) /48.0"
+    },
+    {
+        "validation_Public_Health_8": "B"
+    },
+    {
+        "validation_Public_Health_26": "(D) PYLL and DALY"
+    },
+    {
+        "validation_Public_Health_25": "(D) D/(B+D)"
+    },
+    {
+        "validation_Public_Health_23": "A"
+    },
+    {
+        "validation_Public_Health_6": "(D) McNemar's test"
+    },
+    {
+        "validation_Public_Health_22": "(A) cardiovascular and cerebrovascular diseases"
+    },
+    {
+        "validation_Public_Health_27": "C"
+    },
+    {
+        "validation_Public_Health_11": "C"
+    },
+    {
+        "validation_Public_Health_20": "(B) 53.0/100000"
+    },
+    {
+        "validation_Public_Health_21": "(D) 10.8%"
+    },
+    {
+        "validation_Public_Health_10": "C"
+    },
+    {
+        "validation_Public_Health_7": "(B) Chemical drugs caused the highest rate of adverse drug reactions in the province."
+    },
+    {
+        "validation_Public_Health_19": "(C) 1.799"
+    },
+    {
+        "validation_Public_Health_4": "C"
+    },
+    {
+        "validation_Public_Health_1": "(D) tr$\\ne $tb"
+    },
+    {
+        "validation_Public_Health_16": "(A) (1.29~40.37)"
+    },
+    {
+        "validation_Public_Health_18": "B"
+    },
+    {
+        "validation_Public_Health_24": "(D) 0.44%"
+    },
+    {
+        "validation_Public_Health_13": "A"
+    },
+    {
+        "validation_Public_Health_12": "(D) 40%"
+    },
+    {
+        "validation_Public_Health_15": "(D) 50%"
+    },
+    {
+        "validation_Public_Health_29": "(D) 3.45"
+    },
+    {
+        "validation_Public_Health_3": "C"
+    },
+    {
+        "validation_Public_Health_5": "(A) 53.83"
+    },
+    {
+        "validation_Public_Health_28": "(A) 5.48"
+    },
+    {
+        "validation_Public_Health_2": "(D) 4.80"
+    },
+    {
+        "validation_Public_Health_14": "D"
+    },
+    {
+        "validation_Public_Health_9": "(D) 0.49"
+    },
+    {
+        "validation_Sociology_30": "E"
+    },
+    {
+        "validation_Sociology_17": "B"
+    },
+    {
+        "validation_Sociology_8": "A"
+    },
+    {
+        "validation_Sociology_26": "D"
+    },
+    {
+        "validation_Sociology_25": "D"
+    },
+    {
+        "validation_Sociology_23": "B"
+    },
+    {
+        "validation_Sociology_6": "B"
+    },
+    {
+        "validation_Sociology_22": "B"
+    },
+    {
+        "validation_Sociology_27": "B"
+    },
+    {
+        "validation_Sociology_11": "(D) Demedicalization"
+    },
+    {
+        "validation_Sociology_20": "D"
+    },
+    {
+        "validation_Sociology_21": "A"
+    },
+    {
+        "validation_Sociology_10": "B"
+    },
+    {
+        "validation_Sociology_7": "D"
+    },
+    {
+        "validation_Sociology_19": "A"
+    },
+    {
+        "validation_Sociology_4": "D"
+    },
+    {
+        "validation_Sociology_1": "C"
+    },
+    {
+        "validation_Sociology_16": "B"
+    },
+    {
+        "validation_Sociology_18": "D"
+    },
+    {
+        "validation_Sociology_24": "D"
+    },
+    {
+        "validation_Sociology_13": "B"
+    },
+    {
+        "validation_Sociology_12": "D"
+    },
+    {
+        "validation_Sociology_15": "D"
+    },
+    {
+        "validation_Sociology_29": "(A) Men often earn more than women, even working the same job."
+    },
+    {
+        "validation_Sociology_3": "A"
+    },
+    {
+        "validation_Sociology_5": "(D)"
+    },
+    {
+        "validation_Sociology_28": "(A) Scientology and the Hare Krishna"
+    },
+    {
+        "validation_Sociology_2": "D"
+    },
+    {
+        "validation_Sociology_14": "(A) It is too broad and accounts for too many aspects of family."
+    },
+    {
+        "validation_Sociology_9": "(A) symbolic interactionism"
+    }
+]

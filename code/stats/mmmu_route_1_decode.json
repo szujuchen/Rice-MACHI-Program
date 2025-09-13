@@ -1,0 +1,2573 @@
+[
+    {
+        "validation_Accounting_30": "Yes"
+    },
+    {
+        "validation_Accounting_17": "Yes"
+    },
+    {
+        "validation_Accounting_8": "Yes"
+    },
+    {
+        "validation_Accounting_26": "Yes"
+    },
+    {
+        "validation_Accounting_25": "Yes"
+    },
+    {
+        "validation_Accounting_23": "Yes"
+    },
+    {
+        "validation_Accounting_6": "Yes"
+    },
+    {
+        "validation_Accounting_22": "Yes"
+    },
+    {
+        "validation_Accounting_27": "Yes"
+    },
+    {
+        "validation_Accounting_11": "Yes"
+    },
+    {
+        "validation_Accounting_20": "Yes"
+    },
+    {
+        "validation_Accounting_21": "Yes"
+    },
+    {
+        "validation_Accounting_10": "Yes"
+    },
+    {
+        "validation_Accounting_7": "Yes"
+    },
+    {
+        "validation_Accounting_19": "Yes"
+    },
+    {
+        "validation_Accounting_4": "Yes"
+    },
+    {
+        "validation_Accounting_1": "Yes"
+    },
+    {
+        "validation_Accounting_16": "Yes"
+    },
+    {
+        "validation_Accounting_18": "Yes"
+    },
+    {
+        "validation_Accounting_24": "Yes"
+    },
+    {
+        "validation_Accounting_13": "Yes"
+    },
+    {
+        "validation_Accounting_12": "Yes"
+    },
+    {
+        "validation_Accounting_15": "Yes"
+    },
+    {
+        "validation_Accounting_29": "Yes"
+    },
+    {
+        "validation_Accounting_3": "Yes"
+    },
+    {
+        "validation_Accounting_5": "Yes"
+    },
+    {
+        "validation_Accounting_28": "Yes"
+    },
+    {
+        "validation_Accounting_2": "Yes"
+    },
+    {
+        "validation_Accounting_14": "Yes"
+    },
+    {
+        "validation_Accounting_9": "Yes"
+    },
+    {
+        "validation_Agriculture_30": "Yes"
+    },
+    {
+        "validation_Agriculture_17": "Yes"
+    },
+    {
+        "validation_Agriculture_8": "Yes"
+    },
+    {
+        "validation_Agriculture_25": "Yes"
+    },
+    {
+        "validation_Agriculture_23": "Yes"
+    },
+    {
+        "validation_Agriculture_6": "Yes"
+    },
+    {
+        "validation_Agriculture_22": "Yes"
+    },
+    {
+        "validation_Agriculture_27": "Yes"
+    },
+    {
+        "validation_Agriculture_11": "Yes"
+    },
+    {
+        "validation_Agriculture_20": "Yes"
+    },
+    {
+        "validation_Agriculture_21": "Yes"
+    },
+    {
+        "validation_Agriculture_10": "Yes"
+    },
+    {
+        "validation_Agriculture_7": "Yes"
+    },
+    {
+        "validation_Agriculture_19": "Yes"
+    },
+    {
+        "validation_Agriculture_4": "Yes"
+    },
+    {
+        "validation_Agriculture_1": "Yes"
+    },
+    {
+        "validation_Agriculture_16": "Yes"
+    },
+    {
+        "validation_Agriculture_18": "Yes"
+    },
+    {
+        "validation_Agriculture_24": "Yes"
+    },
+    {
+        "validation_Agriculture_13": "Yes"
+    },
+    {
+        "validation_Agriculture_12": "No"
+    },
+    {
+        "validation_Agriculture_15": "Yes"
+    },
+    {
+        "validation_Agriculture_29": "Yes"
+    },
+    {
+        "validation_Agriculture_3": "Yes"
+    },
+    {
+        "validation_Agriculture_5": "Yes"
+    },
+    {
+        "validation_Agriculture_28": "Yes"
+    },
+    {
+        "validation_Agriculture_2": "Yes"
+    },
+    {
+        "validation_Agriculture_14": "Yes"
+    },
+    {
+        "validation_Agriculture_9": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_30": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_17": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_8": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_26": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_25": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_23": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_6": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_22": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_27": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_11": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_20": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_21": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_10": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_7": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_19": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_4": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_1": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_16": "No"
+    },
+    {
+        "validation_Architecture_and_Engineering_18": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_13": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_12": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_15": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_29": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_3": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_5": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_28": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_2": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_14": "Yes"
+    },
+    {
+        "validation_Architecture_and_Engineering_9": "Yes"
+    },
+    {
+        "validation_Art_30": "Yes"
+    },
+    {
+        "validation_Art_17": "Yes"
+    },
+    {
+        "validation_Art_8": "Yes"
+    },
+    {
+        "validation_Art_26": "Yes"
+    },
+    {
+        "validation_Art_25": "Yes"
+    },
+    {
+        "validation_Art_23": "Yes"
+    },
+    {
+        "validation_Art_6": "Yes"
+    },
+    {
+        "validation_Art_22": "Yes"
+    },
+    {
+        "validation_Art_27": "Yes"
+    },
+    {
+        "validation_Art_11": "Yes"
+    },
+    {
+        "validation_Art_20": "Yes"
+    },
+    {
+        "validation_Art_21": "Yes"
+    },
+    {
+        "validation_Art_10": "Yes"
+    },
+    {
+        "validation_Art_7": "Yes"
+    },
+    {
+        "validation_Art_19": "Yes"
+    },
+    {
+        "validation_Art_4": "Yes"
+    },
+    {
+        "validation_Art_1": "Yes"
+    },
+    {
+        "validation_Art_16": "Yes"
+    },
+    {
+        "validation_Art_18": "Yes"
+    },
+    {
+        "validation_Art_24": "Yes"
+    },
+    {
+        "validation_Art_13": "Yes"
+    },
+    {
+        "validation_Art_12": "Yes"
+    },
+    {
+        "validation_Art_15": "Yes"
+    },
+    {
+        "validation_Art_29": "Yes"
+    },
+    {
+        "validation_Art_3": "Yes"
+    },
+    {
+        "validation_Art_5": "Yes"
+    },
+    {
+        "validation_Art_28": "Yes"
+    },
+    {
+        "validation_Art_2": "Yes"
+    },
+    {
+        "validation_Art_14": "Yes"
+    },
+    {
+        "validation_Art_9": "Yes"
+    },
+    {
+        "validation_Art_Theory_30": "Yes"
+    },
+    {
+        "validation_Art_Theory_17": "Yes"
+    },
+    {
+        "validation_Art_Theory_8": "Yes"
+    },
+    {
+        "validation_Art_Theory_26": "Yes"
+    },
+    {
+        "validation_Art_Theory_25": "Yes"
+    },
+    {
+        "validation_Art_Theory_23": "Yes"
+    },
+    {
+        "validation_Art_Theory_6": "Yes"
+    },
+    {
+        "validation_Art_Theory_22": "Yes"
+    },
+    {
+        "validation_Art_Theory_20": "Yes"
+    },
+    {
+        "validation_Art_Theory_21": "Yes"
+    },
+    {
+        "validation_Art_Theory_10": "Yes"
+    },
+    {
+        "validation_Art_Theory_7": "Yes"
+    },
+    {
+        "validation_Art_Theory_19": "Yes"
+    },
+    {
+        "validation_Art_Theory_18": "Yes"
+    },
+    {
+        "validation_Art_Theory_24": "Yes"
+    },
+    {
+        "validation_Art_Theory_13": "Yes"
+    },
+    {
+        "validation_Art_Theory_12": "No"
+    },
+    {
+        "validation_Art_Theory_15": "Yes"
+    },
+    {
+        "validation_Art_Theory_29": "Yes"
+    },
+    {
+        "validation_Art_Theory_3": "Yes"
+    },
+    {
+        "validation_Art_Theory_5": "No"
+    },
+    {
+        "validation_Art_Theory_28": "Yes"
+    },
+    {
+        "validation_Art_Theory_2": "Yes"
+    },
+    {
+        "validation_Art_Theory_14": "Yes"
+    },
+    {
+        "validation_Art_Theory_9": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_30": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_17": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_8": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_26": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_25": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_23": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_6": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_22": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_27": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_11": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_20": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_21": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_10": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_7": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_19": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_4": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_1": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_16": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_18": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_24": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_13": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_12": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_15": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_29": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_3": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_5": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_28": "No"
+    },
+    {
+        "validation_Basic_Medical_Science_2": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_14": "Yes"
+    },
+    {
+        "validation_Basic_Medical_Science_9": "Yes"
+    },
+    {
+        "validation_Biology_30": "Yes"
+    },
+    {
+        "validation_Biology_17": "Yes"
+    },
+    {
+        "validation_Biology_8": "Yes"
+    },
+    {
+        "validation_Biology_26": "Yes"
+    },
+    {
+        "validation_Biology_25": "Yes"
+    },
+    {
+        "validation_Biology_23": "Yes"
+    },
+    {
+        "validation_Biology_6": "Yes"
+    },
+    {
+        "validation_Biology_22": "Yes"
+    },
+    {
+        "validation_Biology_27": "Yes"
+    },
+    {
+        "validation_Biology_11": "Yes"
+    },
+    {
+        "validation_Biology_20": "Yes"
+    },
+    {
+        "validation_Biology_21": "Yes"
+    },
+    {
+        "validation_Biology_10": "Yes"
+    },
+    {
+        "validation_Biology_7": "Yes"
+    },
+    {
+        "validation_Biology_19": "Yes"
+    },
+    {
+        "validation_Biology_4": "Yes"
+    },
+    {
+        "validation_Biology_1": "Yes"
+    },
+    {
+        "validation_Biology_16": "Yes"
+    },
+    {
+        "validation_Biology_18": "Yes"
+    },
+    {
+        "validation_Biology_13": "Yes"
+    },
+    {
+        "validation_Biology_12": "Yes"
+    },
+    {
+        "validation_Biology_15": "Yes"
+    },
+    {
+        "validation_Biology_3": "Yes"
+    },
+    {
+        "validation_Biology_5": "Yes"
+    },
+    {
+        "validation_Biology_28": "Yes"
+    },
+    {
+        "validation_Biology_2": "Yes"
+    },
+    {
+        "validation_Biology_14": "Yes"
+    },
+    {
+        "validation_Biology_9": "Yes"
+    },
+    {
+        "validation_Chemistry_30": "Yes"
+    },
+    {
+        "validation_Chemistry_17": "Yes"
+    },
+    {
+        "validation_Chemistry_8": "No"
+    },
+    {
+        "validation_Chemistry_25": "Yes"
+    },
+    {
+        "validation_Chemistry_23": "Yes"
+    },
+    {
+        "validation_Chemistry_6": "Yes"
+    },
+    {
+        "validation_Chemistry_22": "Yes"
+    },
+    {
+        "validation_Chemistry_27": "Yes"
+    },
+    {
+        "validation_Chemistry_11": "Yes"
+    },
+    {
+        "validation_Chemistry_20": "Yes"
+    },
+    {
+        "validation_Chemistry_21": "Yes"
+    },
+    {
+        "validation_Chemistry_7": "No"
+    },
+    {
+        "validation_Chemistry_19": "No"
+    },
+    {
+        "validation_Chemistry_4": "Yes"
+    },
+    {
+        "validation_Chemistry_1": "Yes"
+    },
+    {
+        "validation_Chemistry_16": "Yes"
+    },
+    {
+        "validation_Chemistry_24": "Yes"
+    },
+    {
+        "validation_Chemistry_13": "Yes"
+    },
+    {
+        "validation_Chemistry_15": "Yes"
+    },
+    {
+        "validation_Chemistry_3": "NO"
+    },
+    {
+        "validation_Chemistry_5": "Yes"
+    },
+    {
+        "validation_Chemistry_28": "Yes"
+    },
+    {
+        "validation_Chemistry_2": "Yes"
+    },
+    {
+        "validation_Chemistry_14": "Yes"
+    },
+    {
+        "validation_Chemistry_9": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_30": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_17": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_8": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_26": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_25": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_23": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_6": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_22": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_27": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_11": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_20": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_21": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_10": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_7": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_19": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_4": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_1": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_16": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_18": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_24": "No"
+    },
+    {
+        "validation_Clinical_Medicine_12": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_15": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_29": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_3": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_5": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_28": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_2": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_14": "Yes"
+    },
+    {
+        "validation_Clinical_Medicine_9": "Yes"
+    },
+    {
+        "validation_Computer_Science_30": "Yes"
+    },
+    {
+        "validation_Computer_Science_17": "Yes"
+    },
+    {
+        "validation_Computer_Science_8": "Yes"
+    },
+    {
+        "validation_Computer_Science_26": "Yes"
+    },
+    {
+        "validation_Computer_Science_25": "Yes"
+    },
+    {
+        "validation_Computer_Science_23": "Yes"
+    },
+    {
+        "validation_Computer_Science_6": "Yes"
+    },
+    {
+        "validation_Computer_Science_22": "Yes"
+    },
+    {
+        "validation_Computer_Science_27": "Yes"
+    },
+    {
+        "validation_Computer_Science_20": "No"
+    },
+    {
+        "validation_Computer_Science_21": "Yes"
+    },
+    {
+        "validation_Computer_Science_10": "No"
+    },
+    {
+        "validation_Computer_Science_7": "Yes"
+    },
+    {
+        "validation_Computer_Science_19": "Yes"
+    },
+    {
+        "validation_Computer_Science_4": "Yes"
+    },
+    {
+        "validation_Computer_Science_1": "Yes"
+    },
+    {
+        "validation_Computer_Science_16": "Yes"
+    },
+    {
+        "validation_Computer_Science_18": "Yes"
+    },
+    {
+        "validation_Computer_Science_24": "Yes"
+    },
+    {
+        "validation_Computer_Science_13": "Yes"
+    },
+    {
+        "validation_Computer_Science_12": "Yes"
+    },
+    {
+        "validation_Computer_Science_15": "Yes"
+    },
+    {
+        "validation_Computer_Science_29": "Yes"
+    },
+    {
+        "validation_Computer_Science_3": "Yes"
+    },
+    {
+        "validation_Computer_Science_5": "Yes"
+    },
+    {
+        "validation_Computer_Science_2": "Yes"
+    },
+    {
+        "validation_Computer_Science_14": "Yes"
+    },
+    {
+        "validation_Computer_Science_9": "Yes"
+    },
+    {
+        "validation_Design_30": "Yes"
+    },
+    {
+        "validation_Design_17": "Yes"
+    },
+    {
+        "validation_Design_8": "Yes"
+    },
+    {
+        "validation_Design_26": "Yes"
+    },
+    {
+        "validation_Design_25": "Yes"
+    },
+    {
+        "validation_Design_23": "Yes"
+    },
+    {
+        "validation_Design_6": "Yes"
+    },
+    {
+        "validation_Design_22": "Yes"
+    },
+    {
+        "validation_Design_27": "Yes"
+    },
+    {
+        "validation_Design_11": "Yes"
+    },
+    {
+        "validation_Design_20": "Yes"
+    },
+    {
+        "validation_Design_21": "Yes"
+    },
+    {
+        "validation_Design_10": "Yes"
+    },
+    {
+        "validation_Design_7": "No"
+    },
+    {
+        "validation_Design_19": "Yes"
+    },
+    {
+        "validation_Design_4": "Yes"
+    },
+    {
+        "validation_Design_1": "Yes"
+    },
+    {
+        "validation_Design_16": "Yes"
+    },
+    {
+        "validation_Design_18": "Yes"
+    },
+    {
+        "validation_Design_24": "Yes"
+    },
+    {
+        "validation_Design_13": "Yes"
+    },
+    {
+        "validation_Design_12": "Yes"
+    },
+    {
+        "validation_Design_15": "Yes"
+    },
+    {
+        "validation_Design_29": "Yes"
+    },
+    {
+        "validation_Design_3": "Yes"
+    },
+    {
+        "validation_Design_5": "Yes"
+    },
+    {
+        "validation_Design_28": "Yes"
+    },
+    {
+        "validation_Design_2": "NO"
+    },
+    {
+        "validation_Design_14": "Yes"
+    },
+    {
+        "validation_Design_9": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_30": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_17": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_8": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_26": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_25": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_23": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_6": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_22": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_27": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_11": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_20": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_21": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_10": "No"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_7": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_19": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_4": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_1": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_18": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_24": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_13": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_12": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_15": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_29": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_3": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_5": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_28": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_2": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_14": "Yes"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_9": "No"
+    },
+    {
+        "validation_Economics_30": "Yes"
+    },
+    {
+        "validation_Economics_17": "Yes"
+    },
+    {
+        "validation_Economics_8": "Yes"
+    },
+    {
+        "validation_Economics_26": "Yes"
+    },
+    {
+        "validation_Economics_23": "Yes"
+    },
+    {
+        "validation_Economics_6": "Yes"
+    },
+    {
+        "validation_Economics_22": "Yes"
+    },
+    {
+        "validation_Economics_27": "Yes"
+    },
+    {
+        "validation_Economics_11": "Yes"
+    },
+    {
+        "validation_Economics_20": "Yes"
+    },
+    {
+        "validation_Economics_21": "Yes"
+    },
+    {
+        "validation_Economics_10": "Yes"
+    },
+    {
+        "validation_Economics_7": "Yes"
+    },
+    {
+        "validation_Economics_19": "Yes"
+    },
+    {
+        "validation_Economics_4": "Yes"
+    },
+    {
+        "validation_Economics_1": "Yes"
+    },
+    {
+        "validation_Economics_16": "Yes"
+    },
+    {
+        "validation_Economics_18": "Yes"
+    },
+    {
+        "validation_Economics_24": "Yes"
+    },
+    {
+        "validation_Economics_13": "Yes"
+    },
+    {
+        "validation_Economics_12": "Yes"
+    },
+    {
+        "validation_Economics_15": "Yes"
+    },
+    {
+        "validation_Economics_29": "Yes"
+    },
+    {
+        "validation_Economics_3": "Yes"
+    },
+    {
+        "validation_Economics_5": "Yes"
+    },
+    {
+        "validation_Economics_28": "Yes"
+    },
+    {
+        "validation_Economics_2": "Yes"
+    },
+    {
+        "validation_Economics_9": "Yes"
+    },
+    {
+        "validation_Electronics_30": "Yes"
+    },
+    {
+        "validation_Electronics_17": "Yes"
+    },
+    {
+        "validation_Electronics_8": "Yes"
+    },
+    {
+        "validation_Electronics_26": "Yes"
+    },
+    {
+        "validation_Electronics_25": "Yes"
+    },
+    {
+        "validation_Electronics_23": "Yes"
+    },
+    {
+        "validation_Electronics_6": "Yes"
+    },
+    {
+        "validation_Electronics_22": "Yes"
+    },
+    {
+        "validation_Electronics_27": "Yes"
+    },
+    {
+        "validation_Electronics_11": "Yes"
+    },
+    {
+        "validation_Electronics_20": "Yes"
+    },
+    {
+        "validation_Electronics_21": "Yes"
+    },
+    {
+        "validation_Electronics_10": "Yes"
+    },
+    {
+        "validation_Electronics_7": "Yes"
+    },
+    {
+        "validation_Electronics_19": "No"
+    },
+    {
+        "validation_Electronics_4": "Yes"
+    },
+    {
+        "validation_Electronics_1": "Yes"
+    },
+    {
+        "validation_Electronics_16": "Yes"
+    },
+    {
+        "validation_Electronics_18": "Yes"
+    },
+    {
+        "validation_Electronics_24": "Yes"
+    },
+    {
+        "validation_Electronics_13": "Yes"
+    },
+    {
+        "validation_Electronics_12": "Yes"
+    },
+    {
+        "validation_Electronics_15": "Yes"
+    },
+    {
+        "validation_Electronics_29": "Yes"
+    },
+    {
+        "validation_Electronics_3": "Yes"
+    },
+    {
+        "validation_Electronics_5": "Yes"
+    },
+    {
+        "validation_Electronics_28": "Yes"
+    },
+    {
+        "validation_Electronics_2": "Yes"
+    },
+    {
+        "validation_Electronics_14": "Yes"
+    },
+    {
+        "validation_Electronics_9": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_30": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_17": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_8": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_26": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_25": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_23": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_6": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_22": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_27": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_11": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_20": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_21": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_10": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_7": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_19": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_4": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_1": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_16": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_18": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_24": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_13": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_12": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_15": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_29": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_3": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_5": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_28": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_2": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_14": "Yes"
+    },
+    {
+        "validation_Energy_and_Power_9": "Yes"
+    },
+    {
+        "validation_Finance_30": "Yes"
+    },
+    {
+        "validation_Finance_17": "Yes"
+    },
+    {
+        "validation_Finance_8": "Yes"
+    },
+    {
+        "validation_Finance_26": "Yes"
+    },
+    {
+        "validation_Finance_25": "Yes"
+    },
+    {
+        "validation_Finance_23": "Yes"
+    },
+    {
+        "validation_Finance_6": "Yes"
+    },
+    {
+        "validation_Finance_22": "Yes"
+    },
+    {
+        "validation_Finance_27": "Yes"
+    },
+    {
+        "validation_Finance_11": "Yes"
+    },
+    {
+        "validation_Finance_20": "Yes"
+    },
+    {
+        "validation_Finance_21": "Yes"
+    },
+    {
+        "validation_Finance_10": "Yes"
+    },
+    {
+        "validation_Finance_7": "Yes"
+    },
+    {
+        "validation_Finance_19": "Yes"
+    },
+    {
+        "validation_Finance_4": "Yes"
+    },
+    {
+        "validation_Finance_1": "Yes"
+    },
+    {
+        "validation_Finance_16": "Yes"
+    },
+    {
+        "validation_Finance_18": "Yes"
+    },
+    {
+        "validation_Finance_24": "Yes"
+    },
+    {
+        "validation_Finance_13": "Yes"
+    },
+    {
+        "validation_Finance_12": "Yes"
+    },
+    {
+        "validation_Finance_15": "Yes"
+    },
+    {
+        "validation_Finance_29": "Yes"
+    },
+    {
+        "validation_Finance_3": "Yes"
+    },
+    {
+        "validation_Finance_5": "Yes"
+    },
+    {
+        "validation_Finance_28": "Yes"
+    },
+    {
+        "validation_Finance_2": "Yes"
+    },
+    {
+        "validation_Finance_14": "Yes"
+    },
+    {
+        "validation_Finance_9": "Yes"
+    },
+    {
+        "validation_Geography_30": "Yes"
+    },
+    {
+        "validation_Geography_17": "Yes"
+    },
+    {
+        "validation_Geography_8": "Yes"
+    },
+    {
+        "validation_Geography_26": "Yes"
+    },
+    {
+        "validation_Geography_25": "Yes"
+    },
+    {
+        "validation_Geography_23": "Yes"
+    },
+    {
+        "validation_Geography_6": "Yes"
+    },
+    {
+        "validation_Geography_22": "Yes"
+    },
+    {
+        "validation_Geography_27": "Yes"
+    },
+    {
+        "validation_Geography_11": "Yes"
+    },
+    {
+        "validation_Geography_20": "Yes"
+    },
+    {
+        "validation_Geography_21": "Yes"
+    },
+    {
+        "validation_Geography_10": "Yes"
+    },
+    {
+        "validation_Geography_7": "Yes"
+    },
+    {
+        "validation_Geography_19": "Yes"
+    },
+    {
+        "validation_Geography_4": "Yes"
+    },
+    {
+        "validation_Geography_1": "Yes"
+    },
+    {
+        "validation_Geography_18": "No"
+    },
+    {
+        "validation_Geography_24": "Yes"
+    },
+    {
+        "validation_Geography_13": "Yes"
+    },
+    {
+        "validation_Geography_12": "Yes"
+    },
+    {
+        "validation_Geography_15": "Yes"
+    },
+    {
+        "validation_Geography_29": "Yes"
+    },
+    {
+        "validation_Geography_3": "No"
+    },
+    {
+        "validation_Geography_5": "Yes"
+    },
+    {
+        "validation_Geography_28": "Yes"
+    },
+    {
+        "validation_Geography_2": "Yes"
+    },
+    {
+        "validation_Geography_14": "Yes"
+    },
+    {
+        "validation_Geography_9": "Yes"
+    },
+    {
+        "validation_History_30": "Yes"
+    },
+    {
+        "validation_History_17": "Yes"
+    },
+    {
+        "validation_History_8": "Yes"
+    },
+    {
+        "validation_History_26": "Yes"
+    },
+    {
+        "validation_History_25": "Yes"
+    },
+    {
+        "validation_History_23": "Yes"
+    },
+    {
+        "validation_History_6": "Yes"
+    },
+    {
+        "validation_History_22": "Yes"
+    },
+    {
+        "validation_History_27": "Yes"
+    },
+    {
+        "validation_History_11": "Yes"
+    },
+    {
+        "validation_History_20": "Yes"
+    },
+    {
+        "validation_History_21": "Yes"
+    },
+    {
+        "validation_History_10": "Yes"
+    },
+    {
+        "validation_History_7": "Yes"
+    },
+    {
+        "validation_History_19": "Yes"
+    },
+    {
+        "validation_History_4": "Yes"
+    },
+    {
+        "validation_History_1": "Yes"
+    },
+    {
+        "validation_History_16": "Yes"
+    },
+    {
+        "validation_History_24": "Yes"
+    },
+    {
+        "validation_History_13": "Yes"
+    },
+    {
+        "validation_History_12": "Yes"
+    },
+    {
+        "validation_History_29": "Yes"
+    },
+    {
+        "validation_History_3": "Yes"
+    },
+    {
+        "validation_History_5": "Yes"
+    },
+    {
+        "validation_History_28": "Yes"
+    },
+    {
+        "validation_History_2": "Yes"
+    },
+    {
+        "validation_History_14": "Yes"
+    },
+    {
+        "validation_History_9": "NO"
+    },
+    {
+        "validation_Literature_30": "NO"
+    },
+    {
+        "validation_Literature_17": "Yes"
+    },
+    {
+        "validation_Literature_8": "Yes"
+    },
+    {
+        "validation_Literature_26": "Yes"
+    },
+    {
+        "validation_Literature_25": "Yes"
+    },
+    {
+        "validation_Literature_23": "Yes"
+    },
+    {
+        "validation_Literature_6": "Yes"
+    },
+    {
+        "validation_Literature_22": "Yes"
+    },
+    {
+        "validation_Literature_27": "Yes"
+    },
+    {
+        "validation_Literature_11": "Yes"
+    },
+    {
+        "validation_Literature_20": "Yes"
+    },
+    {
+        "validation_Literature_21": "Yes"
+    },
+    {
+        "validation_Literature_10": "Yes"
+    },
+    {
+        "validation_Literature_7": "Yes"
+    },
+    {
+        "validation_Literature_19": "Yes"
+    },
+    {
+        "validation_Literature_4": "Yes"
+    },
+    {
+        "validation_Literature_1": "Yes"
+    },
+    {
+        "validation_Literature_16": "Yes"
+    },
+    {
+        "validation_Literature_18": "Yes"
+    },
+    {
+        "validation_Literature_24": "Yes"
+    },
+    {
+        "validation_Literature_13": "Yes"
+    },
+    {
+        "validation_Literature_12": "Yes"
+    },
+    {
+        "validation_Literature_15": "Yes"
+    },
+    {
+        "validation_Literature_29": "Yes"
+    },
+    {
+        "validation_Literature_3": "Yes"
+    },
+    {
+        "validation_Literature_28": "Yes"
+    },
+    {
+        "validation_Literature_2": "Yes"
+    },
+    {
+        "validation_Literature_14": "Yes"
+    },
+    {
+        "validation_Literature_9": "Yes"
+    },
+    {
+        "validation_Manage_30": "Yes"
+    },
+    {
+        "validation_Manage_17": "Yes"
+    },
+    {
+        "validation_Manage_8": "Yes"
+    },
+    {
+        "validation_Manage_26": "Yes"
+    },
+    {
+        "validation_Manage_25": "Yes"
+    },
+    {
+        "validation_Manage_23": "Yes"
+    },
+    {
+        "validation_Manage_6": "Yes"
+    },
+    {
+        "validation_Manage_22": "Yes"
+    },
+    {
+        "validation_Manage_27": "Yes"
+    },
+    {
+        "validation_Manage_11": "Yes"
+    },
+    {
+        "validation_Manage_21": "Yes"
+    },
+    {
+        "validation_Manage_10": "Yes"
+    },
+    {
+        "validation_Manage_7": "Yes"
+    },
+    {
+        "validation_Manage_19": "Yes"
+    },
+    {
+        "validation_Manage_4": "Yes"
+    },
+    {
+        "validation_Manage_1": "Yes"
+    },
+    {
+        "validation_Manage_16": "Yes"
+    },
+    {
+        "validation_Manage_18": "Yes"
+    },
+    {
+        "validation_Manage_24": "Yes"
+    },
+    {
+        "validation_Manage_13": "Yes"
+    },
+    {
+        "validation_Manage_12": "Yes"
+    },
+    {
+        "validation_Manage_15": "Yes"
+    },
+    {
+        "validation_Manage_29": "Yes"
+    },
+    {
+        "validation_Manage_3": "Yes"
+    },
+    {
+        "validation_Manage_5": "Yes"
+    },
+    {
+        "validation_Manage_28": "Yes"
+    },
+    {
+        "validation_Manage_2": "Yes"
+    },
+    {
+        "validation_Manage_14": "Yes"
+    },
+    {
+        "validation_Manage_9": "Yes"
+    },
+    {
+        "validation_Marketing_30": "Yes"
+    },
+    {
+        "validation_Marketing_17": "Yes"
+    },
+    {
+        "validation_Marketing_8": "Yes"
+    },
+    {
+        "validation_Marketing_26": "No"
+    },
+    {
+        "validation_Marketing_25": "Yes"
+    },
+    {
+        "validation_Marketing_23": "Yes"
+    },
+    {
+        "validation_Marketing_6": "Yes"
+    },
+    {
+        "validation_Marketing_22": "Yes"
+    },
+    {
+        "validation_Marketing_27": "Yes"
+    },
+    {
+        "validation_Marketing_11": "Yes"
+    },
+    {
+        "validation_Marketing_20": "Yes"
+    },
+    {
+        "validation_Marketing_21": "Yes"
+    },
+    {
+        "validation_Marketing_10": "Yes"
+    },
+    {
+        "validation_Marketing_7": "Yes"
+    },
+    {
+        "validation_Marketing_19": "Yes"
+    },
+    {
+        "validation_Marketing_4": "Yes"
+    },
+    {
+        "validation_Marketing_1": "Yes"
+    },
+    {
+        "validation_Marketing_16": "Yes"
+    },
+    {
+        "validation_Marketing_18": "Yes"
+    },
+    {
+        "validation_Marketing_24": "Yes"
+    },
+    {
+        "validation_Marketing_13": "No"
+    },
+    {
+        "validation_Marketing_12": "Yes"
+    },
+    {
+        "validation_Marketing_15": "Yes"
+    },
+    {
+        "validation_Marketing_29": "Yes"
+    },
+    {
+        "validation_Marketing_3": "Yes"
+    },
+    {
+        "validation_Marketing_5": "Yes"
+    },
+    {
+        "validation_Marketing_28": "Yes"
+    },
+    {
+        "validation_Marketing_2": "Yes"
+    },
+    {
+        "validation_Marketing_14": "Yes"
+    },
+    {
+        "validation_Marketing_9": "Yes"
+    },
+    {
+        "validation_Materials_30": "Yes"
+    },
+    {
+        "validation_Materials_17": "Yes"
+    },
+    {
+        "validation_Materials_8": "Yes"
+    },
+    {
+        "validation_Materials_26": "Yes"
+    },
+    {
+        "validation_Materials_25": "No"
+    },
+    {
+        "validation_Materials_23": "Yes"
+    },
+    {
+        "validation_Materials_6": "Yes"
+    },
+    {
+        "validation_Materials_22": "Yes"
+    },
+    {
+        "validation_Materials_27": "Yes"
+    },
+    {
+        "validation_Materials_11": "Yes"
+    },
+    {
+        "validation_Materials_20": "Yes"
+    },
+    {
+        "validation_Materials_21": "Yes"
+    },
+    {
+        "validation_Materials_7": "Yes"
+    },
+    {
+        "validation_Materials_19": "Yes"
+    },
+    {
+        "validation_Materials_4": "Yes"
+    },
+    {
+        "validation_Materials_1": "Yes"
+    },
+    {
+        "validation_Materials_16": "Yes"
+    },
+    {
+        "validation_Materials_18": "Yes"
+    },
+    {
+        "validation_Materials_24": "Yes"
+    },
+    {
+        "validation_Materials_13": "Yes"
+    },
+    {
+        "validation_Materials_12": "Yes"
+    },
+    {
+        "validation_Materials_29": "Yes"
+    },
+    {
+        "validation_Materials_3": "Yes"
+    },
+    {
+        "validation_Materials_5": "Yes"
+    },
+    {
+        "validation_Materials_2": "Yes"
+    },
+    {
+        "validation_Materials_14": "Yes"
+    },
+    {
+        "validation_Materials_9": "Yes"
+    },
+    {
+        "validation_Math_30": "Yes"
+    },
+    {
+        "validation_Math_17": "Yes"
+    },
+    {
+        "validation_Math_8": "Yes"
+    },
+    {
+        "validation_Math_26": "Yes"
+    },
+    {
+        "validation_Math_25": "Yes"
+    },
+    {
+        "validation_Math_23": "Yes"
+    },
+    {
+        "validation_Math_6": "Yes"
+    },
+    {
+        "validation_Math_22": "Yes"
+    },
+    {
+        "validation_Math_27": "Yes"
+    },
+    {
+        "validation_Math_11": "Yes"
+    },
+    {
+        "validation_Math_20": "Yes"
+    },
+    {
+        "validation_Math_21": "Yes"
+    },
+    {
+        "validation_Math_10": "Yes"
+    },
+    {
+        "validation_Math_7": "Yes"
+    },
+    {
+        "validation_Math_4": "Yes"
+    },
+    {
+        "validation_Math_1": "Yes"
+    },
+    {
+        "validation_Math_16": "Yes"
+    },
+    {
+        "validation_Math_18": "Yes"
+    },
+    {
+        "validation_Math_24": "Yes"
+    },
+    {
+        "validation_Math_13": "Yes"
+    },
+    {
+        "validation_Math_12": "Yes"
+    },
+    {
+        "validation_Math_15": "Yes"
+    },
+    {
+        "validation_Math_29": "Yes"
+    },
+    {
+        "validation_Math_5": "Yes"
+    },
+    {
+        "validation_Math_28": "Yes"
+    },
+    {
+        "validation_Math_2": "Yes"
+    },
+    {
+        "validation_Math_14": "Yes"
+    },
+    {
+        "validation_Math_9": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_30": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_17": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_8": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_26": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_25": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_23": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_6": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_22": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_27": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_11": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_20": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_21": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_10": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_7": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_4": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_1": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_16": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_18": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_24": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_13": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_12": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_15": "No"
+    },
+    {
+        "validation_Mechanical_Engineering_29": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_3": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_5": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_28": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_2": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_14": "Yes"
+    },
+    {
+        "validation_Mechanical_Engineering_9": "Yes"
+    },
+    {
+        "validation_Music_30": "Yes"
+    },
+    {
+        "validation_Music_17": "No"
+    },
+    {
+        "validation_Music_8": "Yes"
+    },
+    {
+        "validation_Music_26": "No"
+    },
+    {
+        "validation_Music_25": "No"
+    },
+    {
+        "validation_Music_6": "Yes"
+    },
+    {
+        "validation_Music_22": "Yes"
+    },
+    {
+        "validation_Music_27": "No"
+    },
+    {
+        "validation_Music_11": "Yes"
+    },
+    {
+        "validation_Music_20": "Yes"
+    },
+    {
+        "validation_Music_10": "No"
+    },
+    {
+        "validation_Music_7": "Yes"
+    },
+    {
+        "validation_Music_19": "Yes"
+    },
+    {
+        "validation_Music_4": "Yes"
+    },
+    {
+        "validation_Music_18": "No"
+    },
+    {
+        "validation_Music_24": "Yes"
+    },
+    {
+        "validation_Music_13": "Yes"
+    },
+    {
+        "validation_Music_12": "Yes"
+    },
+    {
+        "validation_Music_15": "Yes"
+    },
+    {
+        "validation_Music_3": "No"
+    },
+    {
+        "validation_Music_5": "No"
+    },
+    {
+        "validation_Music_28": "Yes"
+    },
+    {
+        "validation_Music_2": "No"
+    },
+    {
+        "validation_Music_14": "Yes"
+    },
+    {
+        "validation_Music_9": "Yes"
+    },
+    {
+        "validation_Pharmacy_30": "Yes"
+    },
+    {
+        "validation_Pharmacy_17": "Yes"
+    },
+    {
+        "validation_Pharmacy_8": "Yes"
+    },
+    {
+        "validation_Pharmacy_26": "Yes"
+    },
+    {
+        "validation_Pharmacy_25": "Yes"
+    },
+    {
+        "validation_Pharmacy_23": "Yes"
+    },
+    {
+        "validation_Pharmacy_6": "No"
+    },
+    {
+        "validation_Pharmacy_27": "Yes"
+    },
+    {
+        "validation_Pharmacy_11": "Yes"
+    },
+    {
+        "validation_Pharmacy_20": "Yes"
+    },
+    {
+        "validation_Pharmacy_21": "Yes"
+    },
+    {
+        "validation_Pharmacy_10": "Yes"
+    },
+    {
+        "validation_Pharmacy_7": "Yes"
+    },
+    {
+        "validation_Pharmacy_19": "Yes"
+    },
+    {
+        "validation_Pharmacy_1": "Yes"
+    },
+    {
+        "validation_Pharmacy_16": "Yes"
+    },
+    {
+        "validation_Pharmacy_24": "Yes"
+    },
+    {
+        "validation_Pharmacy_13": "Yes"
+    },
+    {
+        "validation_Pharmacy_12": "Yes"
+    },
+    {
+        "validation_Pharmacy_15": "Yes"
+    },
+    {
+        "validation_Pharmacy_29": "Yes"
+    },
+    {
+        "validation_Pharmacy_3": "Yes"
+    },
+    {
+        "validation_Pharmacy_5": "Yes"
+    },
+    {
+        "validation_Pharmacy_28": "Yes"
+    },
+    {
+        "validation_Pharmacy_2": "Yes"
+    },
+    {
+        "validation_Pharmacy_14": "Yes"
+    },
+    {
+        "validation_Pharmacy_9": "Yes"
+    },
+    {
+        "validation_Physics_30": "Yes"
+    },
+    {
+        "validation_Physics_17": "Yes"
+    },
+    {
+        "validation_Physics_8": "Yes"
+    },
+    {
+        "validation_Physics_26": "Yes"
+    },
+    {
+        "validation_Physics_25": "Yes"
+    },
+    {
+        "validation_Physics_23": "Yes"
+    },
+    {
+        "validation_Physics_6": "Yes"
+    },
+    {
+        "validation_Physics_22": "Yes"
+    },
+    {
+        "validation_Physics_27": "Yes"
+    },
+    {
+        "validation_Physics_11": "Yes"
+    },
+    {
+        "validation_Physics_20": "Yes"
+    },
+    {
+        "validation_Physics_21": "Yes"
+    },
+    {
+        "validation_Physics_10": "Yes"
+    },
+    {
+        "validation_Physics_7": "Yes"
+    },
+    {
+        "validation_Physics_19": "Yes"
+    },
+    {
+        "validation_Physics_4": "Yes"
+    },
+    {
+        "validation_Physics_1": "Yes"
+    },
+    {
+        "validation_Physics_16": "Yes"
+    },
+    {
+        "validation_Physics_18": "Yes"
+    },
+    {
+        "validation_Physics_24": "Yes"
+    },
+    {
+        "validation_Physics_13": "Yes"
+    },
+    {
+        "validation_Physics_12": "Yes"
+    },
+    {
+        "validation_Physics_15": "Yes"
+    },
+    {
+        "validation_Physics_29": "Yes"
+    },
+    {
+        "validation_Physics_3": "Yes"
+    },
+    {
+        "validation_Physics_5": "Yes"
+    },
+    {
+        "validation_Physics_28": "Yes"
+    },
+    {
+        "validation_Physics_2": "Yes"
+    },
+    {
+        "validation_Physics_14": "Yes"
+    },
+    {
+        "validation_Physics_9": "Yes"
+    },
+    {
+        "validation_Psychology_8": "Yes"
+    },
+    {
+        "validation_Psychology_26": "Yes"
+    },
+    {
+        "validation_Psychology_25": "Yes"
+    },
+    {
+        "validation_Psychology_23": "Yes"
+    },
+    {
+        "validation_Psychology_6": "Yes"
+    },
+    {
+        "validation_Psychology_22": "Yes"
+    },
+    {
+        "validation_Psychology_27": "Yes"
+    },
+    {
+        "validation_Psychology_11": "Yes"
+    },
+    {
+        "validation_Psychology_20": "Yes"
+    },
+    {
+        "validation_Psychology_10": "Yes"
+    },
+    {
+        "validation_Psychology_7": "Yes"
+    },
+    {
+        "validation_Psychology_19": "Yes"
+    },
+    {
+        "validation_Psychology_4": "Yes"
+    },
+    {
+        "validation_Psychology_16": "Yes"
+    },
+    {
+        "validation_Psychology_18": "Yes"
+    },
+    {
+        "validation_Psychology_24": "Yes"
+    },
+    {
+        "validation_Psychology_13": "Yes"
+    },
+    {
+        "validation_Psychology_12": "Yes"
+    },
+    {
+        "validation_Psychology_15": "Yes"
+    },
+    {
+        "validation_Psychology_29": "Yes"
+    },
+    {
+        "validation_Psychology_3": "No"
+    },
+    {
+        "validation_Psychology_5": "Yes"
+    },
+    {
+        "validation_Psychology_28": "Yes"
+    },
+    {
+        "validation_Psychology_2": "Yes"
+    },
+    {
+        "validation_Psychology_14": "NO"
+    },
+    {
+        "validation_Psychology_9": "Yes"
+    },
+    {
+        "validation_Public_Health_30": "Yes"
+    },
+    {
+        "validation_Public_Health_17": "Yes"
+    },
+    {
+        "validation_Public_Health_8": "Yes"
+    },
+    {
+        "validation_Public_Health_26": "Yes"
+    },
+    {
+        "validation_Public_Health_25": "Yes"
+    },
+    {
+        "validation_Public_Health_23": "Yes"
+    },
+    {
+        "validation_Public_Health_6": "Yes"
+    },
+    {
+        "validation_Public_Health_22": "Yes"
+    },
+    {
+        "validation_Public_Health_27": "Yes"
+    },
+    {
+        "validation_Public_Health_11": "Yes"
+    },
+    {
+        "validation_Public_Health_20": "Yes"
+    },
+    {
+        "validation_Public_Health_21": "Yes"
+    },
+    {
+        "validation_Public_Health_10": "Yes"
+    },
+    {
+        "validation_Public_Health_7": "Yes"
+    },
+    {
+        "validation_Public_Health_19": "Yes"
+    },
+    {
+        "validation_Public_Health_4": "Yes"
+    },
+    {
+        "validation_Public_Health_1": "Yes"
+    },
+    {
+        "validation_Public_Health_16": "Yes"
+    },
+    {
+        "validation_Public_Health_18": "Yes"
+    },
+    {
+        "validation_Public_Health_24": "Yes"
+    },
+    {
+        "validation_Public_Health_13": "No"
+    },
+    {
+        "validation_Public_Health_12": "Yes"
+    },
+    {
+        "validation_Public_Health_15": "Yes"
+    },
+    {
+        "validation_Public_Health_29": "Yes"
+    },
+    {
+        "validation_Public_Health_3": "Yes"
+    },
+    {
+        "validation_Public_Health_5": "Yes"
+    },
+    {
+        "validation_Public_Health_28": "Yes"
+    },
+    {
+        "validation_Public_Health_2": "Yes"
+    },
+    {
+        "validation_Public_Health_14": "No"
+    },
+    {
+        "validation_Public_Health_9": "Yes"
+    },
+    {
+        "validation_Sociology_30": "Yes"
+    },
+    {
+        "validation_Sociology_17": "Yes"
+    },
+    {
+        "validation_Sociology_8": "No"
+    },
+    {
+        "validation_Sociology_26": "Yes"
+    },
+    {
+        "validation_Sociology_25": "Yes"
+    },
+    {
+        "validation_Sociology_23": "Yes"
+    },
+    {
+        "validation_Sociology_6": "Yes"
+    },
+    {
+        "validation_Sociology_22": "Yes"
+    },
+    {
+        "validation_Sociology_27": "Yes"
+    },
+    {
+        "validation_Sociology_11": "Yes"
+    },
+    {
+        "validation_Sociology_20": "Yes"
+    },
+    {
+        "validation_Sociology_21": "Yes"
+    },
+    {
+        "validation_Sociology_10": "Yes"
+    },
+    {
+        "validation_Sociology_7": "Yes"
+    },
+    {
+        "validation_Sociology_19": "Yes"
+    },
+    {
+        "validation_Sociology_4": "Yes"
+    },
+    {
+        "validation_Sociology_1": "Yes"
+    },
+    {
+        "validation_Sociology_16": "Yes"
+    },
+    {
+        "validation_Sociology_18": "No"
+    },
+    {
+        "validation_Sociology_24": "Yes"
+    },
+    {
+        "validation_Sociology_13": "Yes"
+    },
+    {
+        "validation_Sociology_12": "NO"
+    },
+    {
+        "validation_Sociology_15": "Yes"
+    },
+    {
+        "validation_Sociology_29": "Yes"
+    },
+    {
+        "validation_Sociology_3": "Yes"
+    },
+    {
+        "validation_Sociology_5": "Yes"
+    },
+    {
+        "validation_Sociology_28": "No"
+    },
+    {
+        "validation_Sociology_2": "Yes"
+    },
+    {
+        "validation_Sociology_14": "NO"
+    },
+    {
+        "validation_Sociology_9": "Yes"
+    }
+]

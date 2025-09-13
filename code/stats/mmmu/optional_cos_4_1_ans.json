@@ -1,0 +1,2573 @@
+[
+    {
+        "validation_Accounting_30": "B"
+    },
+    {
+        "validation_Accounting_17": "(B) $112,500"
+    },
+    {
+        "validation_Accounting_8": "A"
+    },
+    {
+        "validation_Accounting_26": "A"
+    },
+    {
+        "validation_Accounting_25": "B"
+    },
+    {
+        "validation_Accounting_23": "C"
+    },
+    {
+        "validation_Accounting_6": "B"
+    },
+    {
+        "validation_Accounting_22": "B"
+    },
+    {
+        "validation_Accounting_27": "B"
+    },
+    {
+        "validation_Accounting_11": "C"
+    },
+    {
+        "validation_Accounting_20": "A"
+    },
+    {
+        "validation_Accounting_21": "(A) Project X would be incorrectly rejected; Project Z would be incorrectly accepted."
+    },
+    {
+        "validation_Accounting_10": "C"
+    },
+    {
+        "validation_Accounting_7": "A"
+    },
+    {
+        "validation_Accounting_19": "B"
+    },
+    {
+        "validation_Accounting_4": "C"
+    },
+    {
+        "validation_Accounting_1": "A"
+    },
+    {
+        "validation_Accounting_16": "A"
+    },
+    {
+        "validation_Accounting_18": "A"
+    },
+    {
+        "validation_Accounting_24": "C"
+    },
+    {
+        "validation_Accounting_13": "A"
+    },
+    {
+        "validation_Accounting_12": "B"
+    },
+    {
+        "validation_Accounting_15": "A"
+    },
+    {
+        "validation_Accounting_29": "C"
+    },
+    {
+        "validation_Accounting_3": "A"
+    },
+    {
+        "validation_Accounting_5": "A"
+    },
+    {
+        "validation_Accounting_28": "C"
+    },
+    {
+        "validation_Accounting_2": "A"
+    },
+    {
+        "validation_Accounting_14": "A"
+    },
+    {
+        "validation_Accounting_9": "B"
+    },
+    {
+        "validation_Agriculture_30": "C"
+    },
+    {
+        "validation_Agriculture_17": "E"
+    },
+    {
+        "validation_Agriculture_8": "D"
+    },
+    {
+        "validation_Agriculture_25": "E"
+    },
+    {
+        "validation_Agriculture_23": "A"
+    },
+    {
+        "validation_Agriculture_6": "B"
+    },
+    {
+        "validation_Agriculture_22": "E"
+    },
+    {
+        "validation_Agriculture_27": "D"
+    },
+    {
+        "validation_Agriculture_11": "C"
+    },
+    {
+        "validation_Agriculture_20": "C"
+    },
+    {
+        "validation_Agriculture_21": "C"
+    },
+    {
+        "validation_Agriculture_10": "A"
+    },
+    {
+        "validation_Agriculture_7": "D"
+    },
+    {
+        "validation_Agriculture_19": "D"
+    },
+    {
+        "validation_Agriculture_4": "E"
+    },
+    {
+        "validation_Agriculture_1": "C"
+    },
+    {
+        "validation_Agriculture_16": "D"
+    },
+    {
+        "validation_Agriculture_18": "C"
+    },
+    {
+        "validation_Agriculture_24": "A"
+    },
+    {
+        "validation_Agriculture_13": "D"
+    },
+    {
+        "validation_Agriculture_12": "D"
+    },
+    {
+        "validation_Agriculture_15": "B"
+    },
+    {
+        "validation_Agriculture_29": "D"
+    },
+    {
+        "validation_Agriculture_3": "C"
+    },
+    {
+        "validation_Agriculture_5": "B"
+    },
+    {
+        "validation_Agriculture_28": "B"
+    },
+    {
+        "validation_Agriculture_2": "E"
+    },
+    {
+        "validation_Agriculture_14": "A"
+    },
+    {
+        "validation_Agriculture_9": "D"
+    },
+    {
+        "validation_Architecture_and_Engineering_30": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_17": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_8": "C"
+    },
+    {
+        "validation_Architecture_and_Engineering_26": "D"
+    },
+    {
+        "validation_Architecture_and_Engineering_25": "B"
+    },
+    {
+        "validation_Architecture_and_Engineering_23": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_6": "(D) The scale of the photographs is 1 cm = 64.5 m;Air base = 625 m"
+    },
+    {
+        "validation_Architecture_and_Engineering_22": "(B) $\\angle A = 263°45'$,$\\angle B = 261°00'$,$\\angle C = 243°00'$,$\\angle D = 265°15'$,$\\angle E = 227°00'$"
+    },
+    {
+        "validation_Architecture_and_Engineering_27": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_11": "B"
+    },
+    {
+        "validation_Architecture_and_Engineering_20": "(A) Side width $w_{1}$ = 37.4 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$"
+    },
+    {
+        "validation_Architecture_and_Engineering_21": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_10": "D"
+    },
+    {
+        "validation_Architecture_and_Engineering_7": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_19": "(C) Max.Compr.= 48.95 kips; Max.Tension = 33.1 kips"
+    },
+    {
+        "validation_Architecture_and_Engineering_4": "(D) +0.01m"
+    },
+    {
+        "validation_Architecture_and_Engineering_1": "C"
+    },
+    {
+        "validation_Architecture_and_Engineering_16": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_18": "(A) 945.8 m, 216°45'"
+    },
+    {
+        "validation_Architecture_and_Engineering_13": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_12": "(D) B = 143°44'00.34\";C = 238°12'11.87\";D = 307°08'20.76\""
+    },
+    {
+        "validation_Architecture_and_Engineering_15": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_29": "(C) Gradient = 1 in 34.95 m fall"
+    },
+    {
+        "validation_Architecture_and_Engineering_3": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_5": "(A) $\\alpha_{23}=75°$,$\\alpha_{34}=160°$,$\\alpha_{45}=220°$,$\\alpha_{51}=280°$"
+    },
+    {
+        "validation_Architecture_and_Engineering_28": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_2": "A"
+    },
+    {
+        "validation_Architecture_and_Engineering_14": "To compute the initial deflection at midspan, we need to apply the appropriate formula for a simply supported beam. The formula for the deflection of a simply supported beam is:\n\nΔ = (L^2 / 32EI) \\* (b^2 / L)\n\nwhere:\nΔ: deflection at midspan (ft)\nL: length of the beam (ft)\nE: modulus of elasticity (kip/in^2)\nI: moment of inertia (ft^4/in^2)\nb: span length (ft)\n\nIn this case, we have:\nL = 12 ft (since the beam is 12 ft long)\nE = 3000 kip/in^2\nI = 0.5IG (from the given value of I)\nb = 12 ft (the span length)\n\nNow,"
+    },
+    {
+        "validation_Architecture_and_Engineering_9": "A"
+    },
+    {
+        "validation_Art_30": "B"
+    },
+    {
+        "validation_Art_17": "B"
+    },
+    {
+        "validation_Art_8": "C"
+    },
+    {
+        "validation_Art_26": "B"
+    },
+    {
+        "validation_Art_25": "C"
+    },
+    {
+        "validation_Art_23": "B"
+    },
+    {
+        "validation_Art_6": "D"
+    },
+    {
+        "validation_Art_22": "B"
+    },
+    {
+        "validation_Art_27": "A"
+    },
+    {
+        "validation_Art_11": "C"
+    },
+    {
+        "validation_Art_20": "A"
+    },
+    {
+        "validation_Art_21": "C"
+    },
+    {
+        "validation_Art_10": "B"
+    },
+    {
+        "validation_Art_7": "A"
+    },
+    {
+        "validation_Art_19": "A"
+    },
+    {
+        "validation_Art_4": "D"
+    },
+    {
+        "validation_Art_1": "C"
+    },
+    {
+        "validation_Art_16": "A"
+    },
+    {
+        "validation_Art_18": "A"
+    },
+    {
+        "validation_Art_24": "C"
+    },
+    {
+        "validation_Art_13": "B"
+    },
+    {
+        "validation_Art_12": "B"
+    },
+    {
+        "validation_Art_15": "A"
+    },
+    {
+        "validation_Art_29": "B"
+    },
+    {
+        "validation_Art_3": "C"
+    },
+    {
+        "validation_Art_5": "D"
+    },
+    {
+        "validation_Art_28": "B"
+    },
+    {
+        "validation_Art_2": "D"
+    },
+    {
+        "validation_Art_14": "A"
+    },
+    {
+        "validation_Art_9": "C"
+    },
+    {
+        "validation_Art_Theory_30": "D"
+    },
+    {
+        "validation_Art_Theory_17": "C"
+    },
+    {
+        "validation_Art_Theory_8": "A"
+    },
+    {
+        "validation_Art_Theory_26": "A"
+    },
+    {
+        "validation_Art_Theory_25": "B"
+    },
+    {
+        "validation_Art_Theory_23": "C"
+    },
+    {
+        "validation_Art_Theory_6": "B"
+    },
+    {
+        "validation_Art_Theory_22": "C"
+    },
+    {
+        "validation_Art_Theory_20": "D"
+    },
+    {
+        "validation_Art_Theory_21": "D"
+    },
+    {
+        "validation_Art_Theory_10": "B"
+    },
+    {
+        "validation_Art_Theory_7": "C"
+    },
+    {
+        "validation_Art_Theory_19": "B"
+    },
+    {
+        "validation_Art_Theory_18": "C"
+    },
+    {
+        "validation_Art_Theory_24": "C"
+    },
+    {
+        "validation_Art_Theory_13": "D"
+    },
+    {
+        "validation_Art_Theory_12": "B"
+    },
+    {
+        "validation_Art_Theory_15": "C"
+    },
+    {
+        "validation_Art_Theory_29": "A"
+    },
+    {
+        "validation_Art_Theory_3": "C"
+    },
+    {
+        "validation_Art_Theory_5": "C"
+    },
+    {
+        "validation_Art_Theory_28": "B"
+    },
+    {
+        "validation_Art_Theory_2": "C"
+    },
+    {
+        "validation_Art_Theory_14": "B"
+    },
+    {
+        "validation_Art_Theory_9": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_30": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_17": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_8": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_26": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_25": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_23": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_6": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_22": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_27": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_11": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_20": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_21": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_10": "Left"
+    },
+    {
+        "validation_Basic_Medical_Science_7": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_19": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_4": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_1": "D"
+    },
+    {
+        "validation_Basic_Medical_Science_16": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_18": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_24": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_13": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_12": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_15": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_29": "C"
+    },
+    {
+        "validation_Basic_Medical_Science_3": "B"
+    },
+    {
+        "validation_Basic_Medical_Science_5": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_28": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_2": "A"
+    },
+    {
+        "validation_Basic_Medical_Science_14": "Figure <image 1> illustrates the process of a human male's testosterone production. The diagram shows the transformation of cholesterol into testosterone through a series of steps, including the conversion of cholesterol to pregnenol, and then to dehydroepiandrosterone (DHEA) and finally to testosterone. The diagram also shows the role of the hypothalamus, pituitary gland, and testes in the production of testosterone."
+    },
+    {
+        "validation_Basic_Medical_Science_9": "C"
+    },
+    {
+        "validation_Biology_30": "F"
+    },
+    {
+        "validation_Biology_17": "C"
+    },
+    {
+        "validation_Biology_8": "A"
+    },
+    {
+        "validation_Biology_26": "E"
+    },
+    {
+        "validation_Biology_25": "D"
+    },
+    {
+        "validation_Biology_23": "C"
+    },
+    {
+        "validation_Biology_6": "B"
+    },
+    {
+        "validation_Biology_22": "D"
+    },
+    {
+        "validation_Biology_27": "C"
+    },
+    {
+        "validation_Biology_11": "A"
+    },
+    {
+        "validation_Biology_20": "C"
+    },
+    {
+        "validation_Biology_21": "B"
+    },
+    {
+        "validation_Biology_10": "To determine the probability that individual #7 will be affected by the disease, we need to analyze the pedigree and identify the genotypes of the relevant individuals.\n\nFrom the pedigree, we can see that individual #1 is a heterozygote for the rare, AR disease. This means that they have one normal allele and one mutated allele. The probability of passing on the mutated allele to their offspring is 50%.\n\nIndividual #2 is not affected by the disease, so they must be a carrier (heterozygote) or have two normal alleles. Since they are not affected, it is more likely that they are a carrier. The probability of individual #2 passing on the normal allele to their offspring is 50%.\n\nIndividual #3 is affected by the disease, so they must have two mutated alleles. Their spouse, who is not affected,"
+    },
+    {
+        "validation_Biology_7": "C"
+    },
+    {
+        "validation_Biology_19": "B"
+    },
+    {
+        "validation_Biology_4": "B"
+    },
+    {
+        "validation_Biology_1": "A"
+    },
+    {
+        "validation_Biology_16": "D"
+    },
+    {
+        "validation_Biology_18": "A"
+    },
+    {
+        "validation_Biology_13": "D"
+    },
+    {
+        "validation_Biology_12": "C"
+    },
+    {
+        "validation_Biology_15": "B"
+    },
+    {
+        "validation_Biology_3": "B"
+    },
+    {
+        "validation_Biology_5": "B"
+    },
+    {
+        "validation_Biology_28": "D"
+    },
+    {
+        "validation_Biology_2": "C"
+    },
+    {
+        "validation_Biology_14": "A"
+    },
+    {
+        "validation_Biology_9": "(A) ALILALMWWLLF"
+    },
+    {
+        "validation_Chemistry_30": "Unfortunately, I cannot provide a specific answer without the actual Lewis structures. However, I can guide you on how to write the formula for a compound using the chemical symbols of the elements.\n\nTo write the formula for a compound, follow these steps:\n\n1. Determine the total number of atoms in the compound by adding the atomic numbers of all the elements present.\n2. Arrange the atoms in the correct ratio, based on their atomic numbers.\n3. Write the chemical symbol of each element, followed by the subscript indicating the number of atoms of that element in the compound.\n\nFor example, if you have an oxide of magnesium and oxygen, the formula would be MgO. This is because the atomic number of magnesium (Mg) is 12, and the atomic number of oxygen (O) is 8. To form the compound, you need one magnesium atom"
+    },
+    {
+        "validation_Chemistry_17": "B"
+    },
+    {
+        "validation_Chemistry_8": "B"
+    },
+    {
+        "validation_Chemistry_25": "24.31"
+    },
+    {
+        "validation_Chemistry_23": "0.000"
+    },
+    {
+        "validation_Chemistry_6": "A"
+    },
+    {
+        "validation_Chemistry_22": "(B) (B)"
+    },
+    {
+        "validation_Chemistry_27": "A"
+    },
+    {
+        "validation_Chemistry_11": "A"
+    },
+    {
+        "validation_Chemistry_20": "1"
+    },
+    {
+        "validation_Chemistry_21": "A"
+    },
+    {
+        "validation_Chemistry_7": "A"
+    },
+    {
+        "validation_Chemistry_19": "Isoleucine has two optical isomers, known as L-isoleucine and D-isoleucine."
+    },
+    {
+        "validation_Chemistry_4": "The substance in the image is cis-1,2-dichloroethene."
+    },
+    {
+        "validation_Chemistry_1": "A"
+    },
+    {
+        "validation_Chemistry_16": "E"
+    },
+    {
+        "validation_Chemistry_24": "A"
+    },
+    {
+        "validation_Chemistry_13": "To find the mass of calcium hydroxide dissolved in Solution A, we need to use the formula:\n\nmass of solute = concentration x volume\n\nIn this case, the concentration is 0.350 M, and the volume is 500. mL.\n\nmass of solute = 0.350 M x 500. mL = 0.175 g\n\nSo, 0.175 g of calcium hydroxide was dissolved to make Solution A."
+    },
+    {
+        "validation_Chemistry_15": "D"
+    },
+    {
+        "validation_Chemistry_3": "B"
+    },
+    {
+        "validation_Chemistry_5": "D"
+    },
+    {
+        "validation_Chemistry_28": "(A) (A) = 6.87D, (B) = 4.11D"
+    },
+    {
+        "validation_Chemistry_2": "D"
+    },
+    {
+        "validation_Chemistry_14": "A"
+    },
+    {
+        "validation_Chemistry_9": "B"
+    },
+    {
+        "validation_Clinical_Medicine_30": "C"
+    },
+    {
+        "validation_Clinical_Medicine_17": "C"
+    },
+    {
+        "validation_Clinical_Medicine_8": "B"
+    },
+    {
+        "validation_Clinical_Medicine_26": "D"
+    },
+    {
+        "validation_Clinical_Medicine_25": "C"
+    },
+    {
+        "validation_Clinical_Medicine_23": "A"
+    },
+    {
+        "validation_Clinical_Medicine_6": "B"
+    },
+    {
+        "validation_Clinical_Medicine_22": "B"
+    },
+    {
+        "validation_Clinical_Medicine_27": "B"
+    },
+    {
+        "validation_Clinical_Medicine_11": "D"
+    },
+    {
+        "validation_Clinical_Medicine_20": "A"
+    },
+    {
+        "validation_Clinical_Medicine_21": "C"
+    },
+    {
+        "validation_Clinical_Medicine_10": "A"
+    },
+    {
+        "validation_Clinical_Medicine_7": "E"
+    },
+    {
+        "validation_Clinical_Medicine_19": "A"
+    },
+    {
+        "validation_Clinical_Medicine_4": "C"
+    },
+    {
+        "validation_Clinical_Medicine_1": "E"
+    },
+    {
+        "validation_Clinical_Medicine_16": "B"
+    },
+    {
+        "validation_Clinical_Medicine_18": "A"
+    },
+    {
+        "validation_Clinical_Medicine_24": "C"
+    },
+    {
+        "validation_Clinical_Medicine_12": "C"
+    },
+    {
+        "validation_Clinical_Medicine_15": "A"
+    },
+    {
+        "validation_Clinical_Medicine_29": "C"
+    },
+    {
+        "validation_Clinical_Medicine_3": "C"
+    },
+    {
+        "validation_Clinical_Medicine_5": "C"
+    },
+    {
+        "validation_Clinical_Medicine_28": "C"
+    },
+    {
+        "validation_Clinical_Medicine_2": "D"
+    },
+    {
+        "validation_Clinical_Medicine_14": "A"
+    },
+    {
+        "validation_Clinical_Medicine_9": "D"
+    },
+    {
+        "validation_Computer_Science_30": "D"
+    },
+    {
+        "validation_Computer_Science_17": "A"
+    },
+    {
+        "validation_Computer_Science_8": "A"
+    },
+    {
+        "validation_Computer_Science_26": "145"
+    },
+    {
+        "validation_Computer_Science_25": "D"
+    },
+    {
+        "validation_Computer_Science_23": "After the first RTT:\n\n* DevRTT: 38 msec\n* estimatedRTT: 250 msec\n\nAfter the second RTT:\n\n* DevRTT: 12.5 msec\n* estimatedRTT: 280 msec\n\nAfter the third RTT:\n\n* DevRTT: 16.67 msec\n* estimatedRTT: 200 msec\n\nAfter the fourth RTT:\n\n* DevRTT: 19.16 msec\n* estimatedRTT: 340 msec"
+    },
+    {
+        "validation_Computer_Science_6": "B"
+    },
+    {
+        "validation_Computer_Science_22": "D"
+    },
+    {
+        "validation_Computer_Science_27": "A"
+    },
+    {
+        "validation_Computer_Science_20": "A"
+    },
+    {
+        "validation_Computer_Science_21": "D"
+    },
+    {
+        "validation_Computer_Science_10": "B"
+    },
+    {
+        "validation_Computer_Science_7": "(B) 34, 42, 23, 52, 33, 46"
+    },
+    {
+        "validation_Computer_Science_19": "D"
+    },
+    {
+        "validation_Computer_Science_4": "B"
+    },
+    {
+        "validation_Computer_Science_1": "E"
+    },
+    {
+        "validation_Computer_Science_16": "D"
+    },
+    {
+        "validation_Computer_Science_18": "B"
+    },
+    {
+        "validation_Computer_Science_24": "D"
+    },
+    {
+        "validation_Computer_Science_13": "B"
+    },
+    {
+        "validation_Computer_Science_12": "C"
+    },
+    {
+        "validation_Computer_Science_15": "D"
+    },
+    {
+        "validation_Computer_Science_29": "C"
+    },
+    {
+        "validation_Computer_Science_3": "C"
+    },
+    {
+        "validation_Computer_Science_5": "D"
+    },
+    {
+        "validation_Computer_Science_2": "(A) 8 is NOT the root"
+    },
+    {
+        "validation_Computer_Science_14": "C"
+    },
+    {
+        "validation_Computer_Science_9": "To find the maximum achievable end-end throughput for each of the four client-to-server pairs, we need to calculate the total capacity of each link and then divide it by the number of pairs.\n\n1. The four links from the servers to the shared middle link have a total capacity of RS = 80 Mbps.\n2. The shared middle link has a total capacity of R = 300 Mbps.\n3. The four links from the shared middle link to a client have a total capacity of 4 \\* RC = 4 \\* 60 Mbps = 240 Mbps.\n\nNow, we can calculate the maximum achievable end-end throughput for each pair:\n\n1. First pair: (1/4) \\* RS \\* R = (1/4) \\* 80 Mbps \\* 300 Mb"
+    },
+    {
+        "validation_Design_30": "D"
+    },
+    {
+        "validation_Design_17": "C"
+    },
+    {
+        "validation_Design_8": "C"
+    },
+    {
+        "validation_Design_26": "B"
+    },
+    {
+        "validation_Design_25": "C"
+    },
+    {
+        "validation_Design_23": "A"
+    },
+    {
+        "validation_Design_6": "A"
+    },
+    {
+        "validation_Design_22": "A"
+    },
+    {
+        "validation_Design_27": "C"
+    },
+    {
+        "validation_Design_11": "B"
+    },
+    {
+        "validation_Design_20": "B"
+    },
+    {
+        "validation_Design_21": "D"
+    },
+    {
+        "validation_Design_10": "D"
+    },
+    {
+        "validation_Design_7": "A"
+    },
+    {
+        "validation_Design_19": "A"
+    },
+    {
+        "validation_Design_4": "A"
+    },
+    {
+        "validation_Design_1": "A"
+    },
+    {
+        "validation_Design_16": "B"
+    },
+    {
+        "validation_Design_18": "D"
+    },
+    {
+        "validation_Design_24": "C"
+    },
+    {
+        "validation_Design_13": "C"
+    },
+    {
+        "validation_Design_12": "A"
+    },
+    {
+        "validation_Design_15": "B"
+    },
+    {
+        "validation_Design_29": "B"
+    },
+    {
+        "validation_Design_3": "A"
+    },
+    {
+        "validation_Design_5": "D"
+    },
+    {
+        "validation_Design_28": "B"
+    },
+    {
+        "validation_Design_2": "D"
+    },
+    {
+        "validation_Design_14": "B"
+    },
+    {
+        "validation_Design_9": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_30": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_17": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_8": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_26": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_25": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_23": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_6": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_22": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_27": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_11": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_20": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_21": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_10": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_7": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_19": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_4": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_1": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_18": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_24": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_13": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_12": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_15": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_29": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_3": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_5": "A"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_28": "C"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_2": "D"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_14": "B"
+    },
+    {
+        "validation_Diagnostics_and_Laboratory_Medicine_9": "A"
+    },
+    {
+        "validation_Economics_30": "A"
+    },
+    {
+        "validation_Economics_17": "C"
+    },
+    {
+        "validation_Economics_8": "C"
+    },
+    {
+        "validation_Economics_26": "A"
+    },
+    {
+        "validation_Economics_23": "C"
+    },
+    {
+        "validation_Economics_6": "A"
+    },
+    {
+        "validation_Economics_22": "B"
+    },
+    {
+        "validation_Economics_27": "A"
+    },
+    {
+        "validation_Economics_11": "A"
+    },
+    {
+        "validation_Economics_20": "$1.00"
+    },
+    {
+        "validation_Economics_21": "B"
+    },
+    {
+        "validation_Economics_10": "B"
+    },
+    {
+        "validation_Economics_7": "B"
+    },
+    {
+        "validation_Economics_19": "C"
+    },
+    {
+        "validation_Economics_4": "A"
+    },
+    {
+        "validation_Economics_1": "B"
+    },
+    {
+        "validation_Economics_16": "D"
+    },
+    {
+        "validation_Economics_18": "A"
+    },
+    {
+        "validation_Economics_24": "A"
+    },
+    {
+        "validation_Economics_13": "D"
+    },
+    {
+        "validation_Economics_12": "B"
+    },
+    {
+        "validation_Economics_15": "C"
+    },
+    {
+        "validation_Economics_29": "D"
+    },
+    {
+        "validation_Economics_3": "To calculate the trade balance and the net inflow of foreign saving, we need to use the following formula:\n\nNet inflow of foreign saving = (G - T) + (I - G)\n\nTrade balance = (G - T)\n\nUsing the given data:\n\nCountry A:\nG = 700, T = 250, I = 700\nNet inflow of foreign saving = (700 - 250) + (700 - 700) = -100 + -100 = -200\nTrade balance = (700 - 250) = 450\n\nCountry B:\nG = 700, T = 250, I = 600\nNet inflow of foreign saving = (700 - 250) + (600 -"
+    },
+    {
+        "validation_Economics_5": "A"
+    },
+    {
+        "validation_Economics_28": "B"
+    },
+    {
+        "validation_Economics_2": "A"
+    },
+    {
+        "validation_Economics_9": "B"
+    },
+    {
+        "validation_Electronics_30": "To find the phase of $V\\_out$ in the ladder network, we need to analyze the circuit diagram and the values of the resistors and capacitors. The ladder network consists of capacitors and resistors connected in a specific pattern, which can be represented as a ladder.\n\nGiven that $V\\_{in} = 100 \\angle 0$ mV, we can start by finding the voltage across each capacitor in the ladder network. We can do this by using the formula $V = I \\cdot R$, where $I$ is the current through the capacitor and $R$ is the resistance connected to the capacitor. Since the current through the capacitor is zero, we can simplify the formula to $V = 0$.\n\nNext, we can find the voltage across each resistor in the ladder network using the formula $V = I \\cdot R$. Since the current through the resistors is"
+    },
+    {
+        "validation_Electronics_17": "(C) -2e^{-1t} V"
+    },
+    {
+        "validation_Electronics_8": "A"
+    },
+    {
+        "validation_Electronics_26": "To find the equivalent capacitor C, we need to analyze the given circuit diagram. The circuit consists of a voltage source, a resistor, and a capacitor. The voltage source is connected to the capacitor and the resistor, which are in series.\n\nFirst, we can find the total resistance (Rt) of the resistor and the voltage source in series:\nRt = R + V/I\nwhere R is the resistance of the resistor, V is the voltage of the source, and I is the current flowing through the circuit.\n\nNext, we can find the total capacitance (Ct) of the capacitor and the capacitance of the voltage source:\nCt = C + Cv\nwhere C is the capacitance of the capacitor, and Cv is the capacitance of the voltage source.\n\nNow, we can find the equivalent capacitance (Ceq) by dividing"
+    },
+    {
+        "validation_Electronics_25": "[0.0, 0.0, 0.998, 0.998]"
+    },
+    {
+        "validation_Electronics_23": "A"
+    },
+    {
+        "validation_Electronics_6": "To find the amplitude of the phasor voltage VC in the circuit, we need to analyze the given diagram. The circuit consists of a series of resistors and capacitors, with a voltage source V1 connected to the circuit. The voltage across the capacitor C is given by VC.\n\nFirst, we can find the total resistance of the circuit by adding the individual resistances: R1 + R2 + R3 + R4 = 10 + 2 + 1 + 1 = 14 Ω.\n\nNext, we can apply Ohm's Law to find the current I flowing through the circuit: V1 / 14 = I. Since V1 = 10 V, I = 10 / 14 = 0.714 A.\n\nNow, we can use the formula for the voltage across a capacitor in a circuit: VC = I \\* Xc,"
+    },
+    {
+        "validation_Electronics_22": "C"
+    },
+    {
+        "validation_Electronics_27": "To find the phase of $I\\_{cC}$, we need to determine the angle between the voltage source and the current through resistor R3. In the given circuit diagram, voltage source V1 is connected to resistor R3, which is in turn connected to capacitor C and then to resistor R2. Current I flows through R3 and then through R2 to reach the ground.\n\nSince the circuit is a balanced load, the voltage drop across R3 is equal to the voltage drop across R2. We can use the voltage divider rule to find the voltage drop across R3:\n\nV3 = V1 \\* R3 / (R3 + R2)\n\nNow, we can find the phase of IcC using the phase angle relationship between voltage and current in a RC circuit:\n\nIcC = V1 / (2 \\* pi \\* f \\* R3)\n\nwhere f is the"
+    },
+    {
+        "validation_Electronics_11": "[0.0, 0.0, 1.0, 1.0]"
+    },
+    {
+        "validation_Electronics_20": "In <image 1>, $v\\_c = sin 2 \\pi T$. Find an expression for i and calculate i at the instants t = 0.\n\nThe expression for i is given by $i = v\\_c / \\omega$, where $\\omega$ is the angular frequency.\n\nAt t = 0, $v\\_c = sin 2 \\pi T = 0$, so $i = 0$."
+    },
+    {
+        "validation_Electronics_21": "[0.0, 0.0, 0.998, 0.998]"
+    },
+    {
+        "validation_Electronics_10": "A"
+    },
+    {
+        "validation_Electronics_7": "A"
+    },
+    {
+        "validation_Electronics_19": "A"
+    },
+    {
+        "validation_Electronics_4": "To determine the operating point $V\\_{CEQ}$, we need to first find the base current $I\\_B$ using the base equation:\n\n$I\\_B = \\frac{V\\_{BE}}{R\\_C} = \\frac{V\\_{BE}}{2.2 \\times 10^3} \\Omega$\n\nSince the transistor is silicon NPN, the base-emitter voltage $V\\_{BE}$ is typically around 0.6 to 0.7 volts for a silicon transistor. Let's assume $V\\_{BE}$ = 0.6 V.\n\nNow, we can substitute the values into the base equation:\n\n$I\\_B = \\frac{0.6}{2.2 \\times 10^3} \\Omega \\approx 0.27 \\times 10^{-3} A$\n\nNext, we can find the"
+    },
+    {
+        "validation_Electronics_1": "B"
+    },
+    {
+        "validation_Electronics_16": "100"
+    },
+    {
+        "validation_Electronics_18": "A"
+    },
+    {
+        "validation_Electronics_24": "To set VCE to 8 V in the common-emitter circuit, we need to use the equation for the voltage gain of a transistor:\n\nVout = Vcc \\* (1 + beta \\* Rc / (Rc + RE))\n\nGiven the values:\nVcc = 15 V\nRc = 4 kΩ\nRE = 600 Ω\nβ = 60\n\nWe can substitute these values into the equation:\n\nVout = 15 V \\* (1 + 60 \\* 4 kΩ / (4 kΩ + 600 Ω))\nVout = 15 V \\* (1 + 60 \\* 4.5 / 600)\nVout = 15 V \\* (1 + 7)\nVout = 15 V \\* 8\nVout ="
+    },
+    {
+        "validation_Electronics_13": "A"
+    },
+    {
+        "validation_Electronics_12": "To solve this problem, we can use the given values and apply the BJT transistor equation for the collector-to-emitter voltage (VCE). The BJT transistor equation is:\n\nVCE = VCC \\* (1 + B) / (B + RC)\n\nwhere B is the current gain of the transistor, and RC is the collector resistance.\n\nGiven:\nVCC = 24 V\nRB = 960 kΩ\nRC = 7 kΩ\nβ = 80\n\nFirst, we need to find the current gain (B) of the transistor:\nB = IC / IB\n\nIC = β \\* IB\n\nIC = 80 \\* IB\n\nIB = IC / 80\n\nIB = 80 / 80\n\nIB = 1\n\nNow, we can substitute the values into"
+    },
+    {
+        "validation_Electronics_15": "A"
+    },
+    {
+        "validation_Electronics_29": "In the given circuit diagram, the power supplied by the 6-V source can be calculated using the formula P = V^2 / R, where P is the power, V is the voltage, and R is the resistance. In this case, the resistance is X = 2 Ω.\n\nP = 6^2 / 2 = 6^2 / 2 = 36 W\n\nSo, the power supplied by the 6-V source is 36 watts."
+    },
+    {
+        "validation_Electronics_3": "C"
+    },
+    {
+        "validation_Electronics_5": "500"
+    },
+    {
+        "validation_Electronics_28": "B"
+    },
+    {
+        "validation_Electronics_2": "To find the effective (rms) value of the three periodic current waveforms, we need to first determine their peak values (Vp) and their respective frequencies (f). Once we have these values, we can calculate the rms value using the following formula:\n\nrms = √(Vp^2 / (2 \\* f))\n\nUnfortunately, the image does not provide the peak values or frequencies for the waveforms. To find the rms value, we would need to measure the peak values and frequencies from the waveforms and then plug them into the formula."
+    },
+    {
+        "validation_Electronics_14": "A"
+    },
+    {
+        "validation_Electronics_9": "C"
+    },
+    {
+        "validation_Energy_and_Power_30": "B"
+    },
+    {
+        "validation_Energy_and_Power_17": "C"
+    },
+    {
+        "validation_Energy_and_Power_8": "A"
+    },
+    {
+        "validation_Energy_and_Power_26": "B"
+    },
+    {
+        "validation_Energy_and_Power_25": "B"
+    },
+    {
+        "validation_Energy_and_Power_23": "C"
+    },
+    {
+        "validation_Energy_and_Power_6": "D"
+    },
+    {
+        "validation_Energy_and_Power_22": "A"
+    },
+    {
+        "validation_Energy_and_Power_27": "A"
+    },
+    {
+        "validation_Energy_and_Power_11": "A"
+    },
+    {
+        "validation_Energy_and_Power_20": "C"
+    },
+    {
+        "validation_Energy_and_Power_21": "A"
+    },
+    {
+        "validation_Energy_and_Power_10": "A"
+    },
+    {
+        "validation_Energy_and_Power_7": "(A) 4.07, 31.8 kW"
+    },
+    {
+        "validation_Energy_and_Power_19": "C"
+    },
+    {
+        "validation_Energy_and_Power_4": "(A) $0.00147\\frac{Btu}{lbm\\cdot R}$"
+    },
+    {
+        "validation_Energy_and_Power_1": "A"
+    },
+    {
+        "validation_Energy_and_Power_16": "A"
+    },
+    {
+        "validation_Energy_and_Power_18": "C"
+    },
+    {
+        "validation_Energy_and_Power_24": "A"
+    },
+    {
+        "validation_Energy_and_Power_13": "C"
+    },
+    {
+        "validation_Energy_and_Power_12": "C"
+    },
+    {
+        "validation_Energy_and_Power_15": "A"
+    },
+    {
+        "validation_Energy_and_Power_29": "B"
+    },
+    {
+        "validation_Energy_and_Power_3": "B"
+    },
+    {
+        "validation_Energy_and_Power_5": "C"
+    },
+    {
+        "validation_Energy_and_Power_28": "A"
+    },
+    {
+        "validation_Energy_and_Power_2": "(A) 0.32 0.67"
+    },
+    {
+        "validation_Energy_and_Power_14": "A"
+    },
+    {
+        "validation_Energy_and_Power_9": "C"
+    },
+    {
+        "validation_Finance_30": "To calculate the value of bond D, we need to know its face value, coupon rate, and current market interest rate. Unfortunately, the image does not provide these values. Please provide the necessary information to calculate the value of bond D."
+    },
+    {
+        "validation_Finance_17": "[0.32, 0.12, 0.62, 0.42]"
+    },
+    {
+        "validation_Finance_8": "I'm sorry, but I cannot answer the question as it is not clear what the question is asking. The information provided seems to be a description of a balance sheet and a forecast for sales growth, but the question itself is not stated. Please provide a clear and concise question so I can assist you better."
+    },
+    {
+        "validation_Finance_26": "(A) interest rate = 5.0%; present value = $1,200,000"
+    },
+    {
+        "validation_Finance_25": "To calculate the FCFE per share for the year 2011, we need to find the values for Free Cash Flow, Equity, and Shares Outstanding for that year. Based on the table, we can find the following values for 2011:\n\nFree Cash Flow: $7,200,000,000\nEquity: $4,000,000,000\nShares Outstanding: 1,000,000,000\n\nNow, we can calculate the FCFE per share for 2011:\n\nFCFE per share = (Free Cash Flow - Capital Expenditures - Depreciation - Working Capital) / Shares Outstanding\nFCFE per share = ($7,200,000,000 - $3,600,000,"
+    },
+    {
+        "validation_Finance_23": "To calculate the current value of operations for Dozier, we need to find the present value of the expected future cash flows using the weighted average cost of capital (WACC) as the discount rate.\n\nGiven the projected free cash flows for the next 3 years, we can calculate the present value of each year's cash flow by discounting it back to the present using the WACC.\n\nYear 1: FCF = $20\nYear 2: FCF = $20 \\* (1 + 7%)^1 = $20 \\* 1.07 = $21.40\nYear 3: FCF = $20 \\* (1 + 7%)^2 = $20 \\* 1.07^2 = $21.40 \\* 1.07 = $22.84"
+    },
+    {
+        "validation_Finance_6": "B"
+    },
+    {
+        "validation_Finance_22": "B"
+    },
+    {
+        "validation_Finance_27": "A"
+    },
+    {
+        "validation_Finance_11": "D"
+    },
+    {
+        "validation_Finance_20": "The company's total receipts from the sale will be the sum of the bid amounts for all the shares. In the image, there are 100,000 shares being auctioned, and the bids range from $15,000 to $80,000 per share. To calculate the total receipts, you would add up all the bid amounts:\n\n$15,000 (lowest bid) x 100,000 shares = $1,500,000\n$20,000 (second lowest bid) x 100,000 shares = $2,000,000\n$25,000 (third lowest bid) x 100,000 shares = $2,500,000\n$30,000 (fourth lowest"
+    },
+    {
+        "validation_Finance_21": "A"
+    },
+    {
+        "validation_Finance_10": "To calculate the amount Desreumaux will have to pay in dollars for the additional 15,000 watches in 3 months, we need to consider both the exchange rate and the forward rate.\n\nFirst, we need to convert the 1 million francs to U.S. dollars using the spot rate:\n1,000,000 francs / 0.50 = 2,000,000 U.S. dollars\n\nNext, we need to calculate the forward rate for the 90-day period. The forward rate is typically calculated as the spot rate adjusted for the interest rate differential between the two countries and any additional risks or factors that may affect the exchange rate. However, the forward rate is not provided in the image, so we cannot calculate it precisely.\n\nInstead, we can use the expected forward rate, which is an estimate of the future exchange rate based"
+    },
+    {
+        "validation_Finance_7": "(B) Month 3: $81,000; Month 4: $96,000"
+    },
+    {
+        "validation_Finance_19": "A"
+    },
+    {
+        "validation_Finance_4": "A"
+    },
+    {
+        "validation_Finance_1": "A"
+    },
+    {
+        "validation_Finance_16": "C"
+    },
+    {
+        "validation_Finance_18": "D"
+    },
+    {
+        "validation_Finance_24": "To compute the price-to-earnings (P/E) ratio, we need to divide the current market price (P\\_0) by the earnings per share (E\\_1). However, the current market price (P\\_0) is not provided in the image. To calculate the P/E ratio, we need the current market price of the industry. Once we have the current market price, we can compute the P/E ratio using the following formula:\n\nP/E ratio = P\\_0 / E\\_1\n\nWithout the current market price, we cannot compute the P/E ratio based on the given fundamental data."
+    },
+    {
+        "validation_Finance_13": "A"
+    },
+    {
+        "validation_Finance_12": "B"
+    },
+    {
+        "validation_Finance_15": "C"
+    },
+    {
+        "validation_Finance_29": "D"
+    },
+    {
+        "validation_Finance_3": "A"
+    },
+    {
+        "validation_Finance_5": "C"
+    },
+    {
+        "validation_Finance_28": "B"
+    },
+    {
+        "validation_Finance_2": "D"
+    },
+    {
+        "validation_Finance_14": "A"
+    },
+    {
+        "validation_Finance_9": "A"
+    },
+    {
+        "validation_Geography_30": "A"
+    },
+    {
+        "validation_Geography_17": "C"
+    },
+    {
+        "validation_Geography_8": "D"
+    },
+    {
+        "validation_Geography_26": "C"
+    },
+    {
+        "validation_Geography_25": "A"
+    },
+    {
+        "validation_Geography_23": "C"
+    },
+    {
+        "validation_Geography_6": "C"
+    },
+    {
+        "validation_Geography_22": "2"
+    },
+    {
+        "validation_Geography_27": "C"
+    },
+    {
+        "validation_Geography_11": "D"
+    },
+    {
+        "validation_Geography_20": "C"
+    },
+    {
+        "validation_Geography_21": "C"
+    },
+    {
+        "validation_Geography_10": "B"
+    },
+    {
+        "validation_Geography_7": "A"
+    },
+    {
+        "validation_Geography_19": "D"
+    },
+    {
+        "validation_Geography_4": "St pete"
+    },
+    {
+        "validation_Geography_1": "A"
+    },
+    {
+        "validation_Geography_18": "A"
+    },
+    {
+        "validation_Geography_24": "A"
+    },
+    {
+        "validation_Geography_13": "C"
+    },
+    {
+        "validation_Geography_12": "A"
+    },
+    {
+        "validation_Geography_15": "B"
+    },
+    {
+        "validation_Geography_29": "D"
+    },
+    {
+        "validation_Geography_3": "B"
+    },
+    {
+        "validation_Geography_5": "D"
+    },
+    {
+        "validation_Geography_28": "B"
+    },
+    {
+        "validation_Geography_2": "C"
+    },
+    {
+        "validation_Geography_14": "To calculate the punching shear bearing capacity Fl of the cushion cap, we need to follow the steps outlined in the problem statement.\n\n1. Determine the dimensions of the pile cap: The pile cap is square-shaped with a size of 4m x 4m.\n2. Calculate the area of the pile cap: The area of a square is given by the formula A = s^2, where s is the length of the side. In this case, s = 4m, so A = 4^2 = 16m^2.\n3. Determine the thickness of the cushion cap: The thickness of the cushion cap is given as 1.2m.\n4. Calculate the total volume of the cushion cap: The volume of a rectangular prism is given by the formula V = lwh, where l,"
+    },
+    {
+        "validation_Geography_9": "B"
+    },
+    {
+        "validation_History_30": "A"
+    },
+    {
+        "validation_History_17": "D"
+    },
+    {
+        "validation_History_8": "C"
+    },
+    {
+        "validation_History_26": "C"
+    },
+    {
+        "validation_History_25": "D"
+    },
+    {
+        "validation_History_23": "A"
+    },
+    {
+        "validation_History_6": "A"
+    },
+    {
+        "validation_History_22": "A"
+    },
+    {
+        "validation_History_27": "C"
+    },
+    {
+        "validation_History_11": "A"
+    },
+    {
+        "validation_History_20": "B"
+    },
+    {
+        "validation_History_21": "A"
+    },
+    {
+        "validation_History_10": "A"
+    },
+    {
+        "validation_History_7": "B"
+    },
+    {
+        "validation_History_19": "D"
+    },
+    {
+        "validation_History_4": "D"
+    },
+    {
+        "validation_History_1": "B"
+    },
+    {
+        "validation_History_16": "C"
+    },
+    {
+        "validation_History_24": "C"
+    },
+    {
+        "validation_History_13": "A"
+    },
+    {
+        "validation_History_12": "B"
+    },
+    {
+        "validation_History_29": "D"
+    },
+    {
+        "validation_History_3": "A"
+    },
+    {
+        "validation_History_5": "B"
+    },
+    {
+        "validation_History_28": "A"
+    },
+    {
+        "validation_History_2": "B"
+    },
+    {
+        "validation_History_14": "C"
+    },
+    {
+        "validation_History_9": "B"
+    },
+    {
+        "validation_Literature_30": "D"
+    },
+    {
+        "validation_Literature_17": "B"
+    },
+    {
+        "validation_Literature_8": "D"
+    },
+    {
+        "validation_Literature_26": "D"
+    },
+    {
+        "validation_Literature_25": "B"
+    },
+    {
+        "validation_Literature_23": "D"
+    },
+    {
+        "validation_Literature_6": "B"
+    },
+    {
+        "validation_Literature_22": "A"
+    },
+    {
+        "validation_Literature_27": "A"
+    },
+    {
+        "validation_Literature_11": "B"
+    },
+    {
+        "validation_Literature_20": "C"
+    },
+    {
+        "validation_Literature_21": "C"
+    },
+    {
+        "validation_Literature_10": "D"
+    },
+    {
+        "validation_Literature_7": "A"
+    },
+    {
+        "validation_Literature_19": "B"
+    },
+    {
+        "validation_Literature_4": "B"
+    },
+    {
+        "validation_Literature_1": "C"
+    },
+    {
+        "validation_Literature_16": "A"
+    },
+    {
+        "validation_Literature_18": "C"
+    },
+    {
+        "validation_Literature_24": "A"
+    },
+    {
+        "validation_Literature_13": "D"
+    },
+    {
+        "validation_Literature_12": "A"
+    },
+    {
+        "validation_Literature_15": "A"
+    },
+    {
+        "validation_Literature_29": "D"
+    },
+    {
+        "validation_Literature_3": "C"
+    },
+    {
+        "validation_Literature_28": "D"
+    },
+    {
+        "validation_Literature_2": "D"
+    },
+    {
+        "validation_Literature_14": "B"
+    },
+    {
+        "validation_Literature_9": "A"
+    },
+    {
+        "validation_Manage_30": "E"
+    },
+    {
+        "validation_Manage_17": "To calculate the commission on the sale, we need to determine the price at which the stock was sold and the commission rate applicable to that price.\n\nFrom the table of Brokerage Rates, we can see that for a price of 146 (1/8), the commission rate is 2%.\n\nThe odd-lot differential on the sale is 1/4 of a point, which means that the effective price for calculating the commission will be (146 + 1/4) / 8.\n\nTherefore, the commission on the sale would be:\n\nCommission = (146 + 1/4) / 8 x 100% x 2%\n= (146 + 1/4) / 8 x 0.02\n= 146 / 8 + 1/4\n= 18.25\n\nSo, the commission"
+    },
+    {
+        "validation_Manage_8": "D"
+    },
+    {
+        "validation_Manage_26": "A"
+    },
+    {
+        "validation_Manage_25": "[0.0, 0.002, 0.998, 0.998]"
+    },
+    {
+        "validation_Manage_23": "[0.0, 0.0, 0.998, 0.998]"
+    },
+    {
+        "validation_Manage_6": "C"
+    },
+    {
+        "validation_Manage_22": "A"
+    },
+    {
+        "validation_Manage_27": "A"
+    },
+    {
+        "validation_Manage_11": "C"
+    },
+    {
+        "validation_Manage_21": "$6.75"
+    },
+    {
+        "validation_Manage_10": "A"
+    },
+    {
+        "validation_Manage_7": "C"
+    },
+    {
+        "validation_Manage_19": "D"
+    },
+    {
+        "validation_Manage_4": "C"
+    },
+    {
+        "validation_Manage_1": "B"
+    },
+    {
+        "validation_Manage_16": "A"
+    },
+    {
+        "validation_Manage_18": "D"
+    },
+    {
+        "validation_Manage_24": "A"
+    },
+    {
+        "validation_Manage_13": "(C) M: $60,000: N: $51,996; T: $8,004;"
+    },
+    {
+        "validation_Manage_12": "A"
+    },
+    {
+        "validation_Manage_15": "B"
+    },
+    {
+        "validation_Manage_29": "A"
+    },
+    {
+        "validation_Manage_3": "To calculate the budgeted total cash receipts for November, we need to consider both cash and credit sales. We can use the following steps:\n\n1. Calculate the budgeted total sales for November.\n2. Determine the collectible credit sales for November.\n3. Calculate the cash discounts for November.\n4. Calculate the budgeted total cash receipts for November.\n\nStep 1: Budgeted total sales for November\n\nThe budgeted total sales for November is $120,000.\n\nStep 2: Determine the collectible credit sales for November\n\nOf the budgeted total sales of $120,000, 5% are uncollectible, leaving $114,000 in collectible credit sales.\n\nStep 3: Calculate the cash discounts for November\n\nOf the"
+    },
+    {
+        "validation_Manage_5": "B"
+    },
+    {
+        "validation_Manage_28": "B"
+    },
+    {
+        "validation_Manage_2": "A"
+    },
+    {
+        "validation_Manage_14": "D"
+    },
+    {
+        "validation_Manage_9": "B"
+    },
+    {
+        "validation_Marketing_30": "C"
+    },
+    {
+        "validation_Marketing_17": "C"
+    },
+    {
+        "validation_Marketing_8": "B"
+    },
+    {
+        "validation_Marketing_26": "C"
+    },
+    {
+        "validation_Marketing_25": "C"
+    },
+    {
+        "validation_Marketing_23": "A"
+    },
+    {
+        "validation_Marketing_6": "B"
+    },
+    {
+        "validation_Marketing_22": "D"
+    },
+    {
+        "validation_Marketing_27": "B"
+    },
+    {
+        "validation_Marketing_11": "P(x = 4) = 0.3"
+    },
+    {
+        "validation_Marketing_20": "A"
+    },
+    {
+        "validation_Marketing_21": "C"
+    },
+    {
+        "validation_Marketing_10": "C"
+    },
+    {
+        "validation_Marketing_7": "(C) (2.92, 3.59)"
+    },
+    {
+        "validation_Marketing_19": "C"
+    },
+    {
+        "validation_Marketing_4": "C"
+    },
+    {
+        "validation_Marketing_1": "A"
+    },
+    {
+        "validation_Marketing_16": "A"
+    },
+    {
+        "validation_Marketing_18": "C"
+    },
+    {
+        "validation_Marketing_24": "A"
+    },
+    {
+        "validation_Marketing_13": "(B) 1-II, 2-I, 3-IV, 4-III"
+    },
+    {
+        "validation_Marketing_12": "A"
+    },
+    {
+        "validation_Marketing_15": "B"
+    },
+    {
+        "validation_Marketing_29": "A"
+    },
+    {
+        "validation_Marketing_3": "A"
+    },
+    {
+        "validation_Marketing_5": "B"
+    },
+    {
+        "validation_Marketing_28": "B"
+    },
+    {
+        "validation_Marketing_2": "B"
+    },
+    {
+        "validation_Marketing_14": "D"
+    },
+    {
+        "validation_Marketing_9": "A"
+    },
+    {
+        "validation_Materials_30": "(C) 0.00543 mm/mm"
+    },
+    {
+        "validation_Materials_17": "A"
+    },
+    {
+        "validation_Materials_8": "A"
+    },
+    {
+        "validation_Materials_26": "(C) Na=500 lb, Va=0"
+    },
+    {
+        "validation_Materials_25": "A"
+    },
+    {
+        "validation_Materials_23": "A"
+    },
+    {
+        "validation_Materials_6": "D"
+    },
+    {
+        "validation_Materials_22": "A"
+    },
+    {
+        "validation_Materials_27": "A"
+    },
+    {
+        "validation_Materials_11": "C"
+    },
+    {
+        "validation_Materials_20": "C"
+    },
+    {
+        "validation_Materials_21": "(D) N\\_D=0, V\\_D=4.50 kip, M\\_D=36.0 kip·ft"
+    },
+    {
+        "validation_Materials_7": "A"
+    },
+    {
+        "validation_Materials_19": "C"
+    },
+    {
+        "validation_Materials_4": "B"
+    },
+    {
+        "validation_Materials_1": "A"
+    },
+    {
+        "validation_Materials_16": "A"
+    },
+    {
+        "validation_Materials_18": "D"
+    },
+    {
+        "validation_Materials_24": "A"
+    },
+    {
+        "validation_Materials_13": "B"
+    },
+    {
+        "validation_Materials_12": "A"
+    },
+    {
+        "validation_Materials_29": "A"
+    },
+    {
+        "validation_Materials_3": "A"
+    },
+    {
+        "validation_Materials_5": "B"
+    },
+    {
+        "validation_Materials_2": "(B) (P/A)sin^2($\\theta$)"
+    },
+    {
+        "validation_Materials_14": "A"
+    },
+    {
+        "validation_Materials_9": "A"
+    },
+    {
+        "validation_Math_30": "A"
+    },
+    {
+        "validation_Math_17": "A"
+    },
+    {
+        "validation_Math_8": "To maximize profit, the company should use 3 boats of Type 1 and 2 boats of Type 2. This choice results in a total of 6,000 customers per season, which is the maximum demand, and a total cost of $25,000 for Type 1 boats and $160,000 for Type 2 boats, for a total cost of $185,000. The profit for this choice is $4,000 x 3 = $12,000 for Type 1 boats and $7,000 x 2 = $14,000 for Type 2 boats, for a total profit of $26,000. Therefore, option (C) is the correct choice."
+    },
+    {
+        "validation_Math_26": "A"
+    },
+    {
+        "validation_Math_25": "(A) θ = 0.524"
+    },
+    {
+        "validation_Math_23": "C"
+    },
+    {
+        "validation_Math_6": "B"
+    },
+    {
+        "validation_Math_22": "(C) 157"
+    },
+    {
+        "validation_Math_27": "B"
+    },
+    {
+        "validation_Math_11": "B"
+    },
+    {
+        "validation_Math_20": "C"
+    },
+    {
+        "validation_Math_21": "C"
+    },
+    {
+        "validation_Math_10": "A"
+    },
+    {
+        "validation_Math_7": "B"
+    },
+    {
+        "validation_Math_4": "B"
+    },
+    {
+        "validation_Math_1": "B"
+    },
+    {
+        "validation_Math_16": "D"
+    },
+    {
+        "validation_Math_18": "A"
+    },
+    {
+        "validation_Math_24": "A"
+    },
+    {
+        "validation_Math_13": "C"
+    },
+    {
+        "validation_Math_12": "C"
+    },
+    {
+        "validation_Math_15": "To solve this problem, we can use the concept of similar triangles. Let's first draw a diagram to represent the situation:\n```lua\n   |\n   |\n   |    25\n   |    /|\n   |   / |\n   |  /  |\n   | /   |\n   |/_____|\n   -7\n```\nIn the diagram, the top of the ladder is 25 feet away from the base of the wall, and the bottom of the ladder is 7 feet away from the base. The ladder is leaning against the wall, so we can assume that the angle between the ladder and the wall is the same at both the top and the bottom.\n\nSince the top of the ladder is slipping down the wall at the rate of 1 foot per second, we can assume that the bottom of the ladder is also slipping down the ground at the same"
+    },
+    {
+        "validation_Math_29": "B"
+    },
+    {
+        "validation_Math_5": "B"
+    },
+    {
+        "validation_Math_28": "A"
+    },
+    {
+        "validation_Math_2": "The correct answer is (D) (a) 1, (b) 3."
+    },
+    {
+        "validation_Math_14": "A"
+    },
+    {
+        "validation_Math_9": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_30": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_17": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_8": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_26": "C"
+    },
+    {
+        "validation_Mechanical_Engineering_25": "(A) $R\\_{A}=R\\_{C}=-2.429kips$"
+    },
+    {
+        "validation_Mechanical_Engineering_23": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_6": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_22": "(A) 7522lb,1643lb"
+    },
+    {
+        "validation_Mechanical_Engineering_27": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_11": "(A) 41.7Mpa,44.83Mpa"
+    },
+    {
+        "validation_Mechanical_Engineering_20": "(D) 8kN"
+    },
+    {
+        "validation_Mechanical_Engineering_21": "(A) h=125.358m,t=27.62s"
+    },
+    {
+        "validation_Mechanical_Engineering_10": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_7": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_4": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_1": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_16": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_18": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_24": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_13": "C"
+    },
+    {
+        "validation_Mechanical_Engineering_12": "B"
+    },
+    {
+        "validation_Mechanical_Engineering_15": "C"
+    },
+    {
+        "validation_Mechanical_Engineering_29": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_3": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_5": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_28": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_2": "A"
+    },
+    {
+        "validation_Mechanical_Engineering_14": "(C) 9673 J, 1218 N⋅m"
+    },
+    {
+        "validation_Mechanical_Engineering_9": "(C) K2=0.06,K1=0.277"
+    },
+    {
+        "validation_Music_30": "A"
+    },
+    {
+        "validation_Music_17": "(B)"
+    },
+    {
+        "validation_Music_8": "D"
+    },
+    {
+        "validation_Music_26": "A"
+    },
+    {
+        "validation_Music_25": "A"
+    },
+    {
+        "validation_Music_6": "B"
+    },
+    {
+        "validation_Music_22": "B"
+    },
+    {
+        "validation_Music_27": "B"
+    },
+    {
+        "validation_Music_11": "A"
+    },
+    {
+        "validation_Music_20": "D"
+    },
+    {
+        "validation_Music_10": "B"
+    },
+    {
+        "validation_Music_7": "C"
+    },
+    {
+        "validation_Music_19": "C"
+    },
+    {
+        "validation_Music_4": "A"
+    },
+    {
+        "validation_Music_18": "A"
+    },
+    {
+        "validation_Music_24": "B"
+    },
+    {
+        "validation_Music_13": "D"
+    },
+    {
+        "validation_Music_12": "B"
+    },
+    {
+        "validation_Music_15": "A"
+    },
+    {
+        "validation_Music_3": "(A) perfect"
+    },
+    {
+        "validation_Music_5": "B"
+    },
+    {
+        "validation_Music_28": "D"
+    },
+    {
+        "validation_Music_2": "B"
+    },
+    {
+        "validation_Music_14": "A"
+    },
+    {
+        "validation_Music_9": "C"
+    },
+    {
+        "validation_Pharmacy_30": "A"
+    },
+    {
+        "validation_Pharmacy_17": "D"
+    },
+    {
+        "validation_Pharmacy_8": "B"
+    },
+    {
+        "validation_Pharmacy_26": "C"
+    },
+    {
+        "validation_Pharmacy_25": "D"
+    },
+    {
+        "validation_Pharmacy_23": "A"
+    },
+    {
+        "validation_Pharmacy_6": "D"
+    },
+    {
+        "validation_Pharmacy_27": "(C) 40.0%, 0.50 mol, 0.05 mol, 20.0%"
+    },
+    {
+        "validation_Pharmacy_11": "C"
+    },
+    {
+        "validation_Pharmacy_20": "A"
+    },
+    {
+        "validation_Pharmacy_21": "D"
+    },
+    {
+        "validation_Pharmacy_10": "A"
+    },
+    {
+        "validation_Pharmacy_7": "C"
+    },
+    {
+        "validation_Pharmacy_19": "Step b"
+    },
+    {
+        "validation_Pharmacy_1": "B"
+    },
+    {
+        "validation_Pharmacy_16": "(A) 1,2"
+    },
+    {
+        "validation_Pharmacy_24": "A"
+    },
+    {
+        "validation_Pharmacy_13": "A"
+    },
+    {
+        "validation_Pharmacy_12": "B"
+    },
+    {
+        "validation_Pharmacy_15": "A"
+    },
+    {
+        "validation_Pharmacy_29": "A"
+    },
+    {
+        "validation_Pharmacy_3": "[0.0, 0.0, 0.998, 0.998]"
+    },
+    {
+        "validation_Pharmacy_5": "C"
+    },
+    {
+        "validation_Pharmacy_28": "D"
+    },
+    {
+        "validation_Pharmacy_2": "A"
+    },
+    {
+        "validation_Pharmacy_14": "B"
+    },
+    {
+        "validation_Pharmacy_9": "A"
+    },
+    {
+        "validation_Physics_30": "A"
+    },
+    {
+        "validation_Physics_17": "A"
+    },
+    {
+        "validation_Physics_8": "A"
+    },
+    {
+        "validation_Physics_26": "C"
+    },
+    {
+        "validation_Physics_25": "C"
+    },
+    {
+        "validation_Physics_23": "A"
+    },
+    {
+        "validation_Physics_6": "A"
+    },
+    {
+        "validation_Physics_22": "B"
+    },
+    {
+        "validation_Physics_27": "D"
+    },
+    {
+        "validation_Physics_11": "A"
+    },
+    {
+        "validation_Physics_20": "C"
+    },
+    {
+        "validation_Physics_21": "[0.0, 0.0, 0.998, 0.998]"
+    },
+    {
+        "validation_Physics_10": "B"
+    },
+    {
+        "validation_Physics_7": "B"
+    },
+    {
+        "validation_Physics_19": "B"
+    },
+    {
+        "validation_Physics_4": "C"
+    },
+    {
+        "validation_Physics_1": "A"
+    },
+    {
+        "validation_Physics_16": "D"
+    },
+    {
+        "validation_Physics_18": "D"
+    },
+    {
+        "validation_Physics_24": "A"
+    },
+    {
+        "validation_Physics_13": "D"
+    },
+    {
+        "validation_Physics_12": "D"
+    },
+    {
+        "validation_Physics_15": "D"
+    },
+    {
+        "validation_Physics_29": "B"
+    },
+    {
+        "validation_Physics_3": "A"
+    },
+    {
+        "validation_Physics_5": "C"
+    },
+    {
+        "validation_Physics_28": "A"
+    },
+    {
+        "validation_Physics_2": "(B) To the right/To the left"
+    },
+    {
+        "validation_Physics_14": "A"
+    },
+    {
+        "validation_Physics_9": "E"
+    },
+    {
+        "validation_Psychology_8": "A"
+    },
+    {
+        "validation_Psychology_26": "B"
+    },
+    {
+        "validation_Psychology_25": "A"
+    },
+    {
+        "validation_Psychology_23": "A"
+    },
+    {
+        "validation_Psychology_6": "B"
+    },
+    {
+        "validation_Psychology_22": "C"
+    },
+    {
+        "validation_Psychology_27": "E"
+    },
+    {
+        "validation_Psychology_11": "B"
+    },
+    {
+        "validation_Psychology_20": "10"
+    },
+    {
+        "validation_Psychology_10": "(A) Temporal lobe, occipital lobe, parietal lobe, frontal lobe"
+    },
+    {
+        "validation_Psychology_7": "B"
+    },
+    {
+        "validation_Psychology_19": "C"
+    },
+    {
+        "validation_Psychology_4": "C"
+    },
+    {
+        "validation_Psychology_16": "D"
+    },
+    {
+        "validation_Psychology_18": "A"
+    },
+    {
+        "validation_Psychology_24": "A"
+    },
+    {
+        "validation_Psychology_13": "B"
+    },
+    {
+        "validation_Psychology_12": "C"
+    },
+    {
+        "validation_Psychology_15": "E"
+    },
+    {
+        "validation_Psychology_29": "A"
+    },
+    {
+        "validation_Psychology_3": "C"
+    },
+    {
+        "validation_Psychology_5": "D"
+    },
+    {
+        "validation_Psychology_28": "A"
+    },
+    {
+        "validation_Psychology_2": "A"
+    },
+    {
+        "validation_Psychology_14": "A"
+    },
+    {
+        "validation_Psychology_9": "D"
+    },
+    {
+        "validation_Public_Health_30": "D"
+    },
+    {
+        "validation_Public_Health_17": "C"
+    },
+    {
+        "validation_Public_Health_8": "B"
+    },
+    {
+        "validation_Public_Health_26": "D"
+    },
+    {
+        "validation_Public_Health_25": "(A) A/(A+C)"
+    },
+    {
+        "validation_Public_Health_23": "B"
+    },
+    {
+        "validation_Public_Health_6": "D"
+    },
+    {
+        "validation_Public_Health_22": "A"
+    },
+    {
+        "validation_Public_Health_27": "B"
+    },
+    {
+        "validation_Public_Health_11": "C"
+    },
+    {
+        "validation_Public_Health_20": "B"
+    },
+    {
+        "validation_Public_Health_21": "C"
+    },
+    {
+        "validation_Public_Health_10": "C"
+    },
+    {
+        "validation_Public_Health_7": "B"
+    },
+    {
+        "validation_Public_Health_19": "C"
+    },
+    {
+        "validation_Public_Health_4": "C"
+    },
+    {
+        "validation_Public_Health_1": "D"
+    },
+    {
+        "validation_Public_Health_16": "B"
+    },
+    {
+        "validation_Public_Health_18": "C"
+    },
+    {
+        "validation_Public_Health_24": "A"
+    },
+    {
+        "validation_Public_Health_13": "B"
+    },
+    {
+        "validation_Public_Health_12": "A"
+    },
+    {
+        "validation_Public_Health_15": "B"
+    },
+    {
+        "validation_Public_Health_29": "C"
+    },
+    {
+        "validation_Public_Health_3": "A"
+    },
+    {
+        "validation_Public_Health_5": "B"
+    },
+    {
+        "validation_Public_Health_28": "B"
+    },
+    {
+        "validation_Public_Health_2": "D"
+    },
+    {
+        "validation_Public_Health_14": "D"
+    },
+    {
+        "validation_Public_Health_9": "A"
+    },
+    {
+        "validation_Sociology_30": "D"
+    },
+    {
+        "validation_Sociology_17": "B"
+    },
+    {
+        "validation_Sociology_8": "B"
+    },
+    {
+        "validation_Sociology_26": "D"
+    },
+    {
+        "validation_Sociology_25": "D"
+    },
+    {
+        "validation_Sociology_23": "D"
+    },
+    {
+        "validation_Sociology_6": "B"
+    },
+    {
+        "validation_Sociology_22": "B"
+    },
+    {
+        "validation_Sociology_27": "B"
+    },
+    {
+        "validation_Sociology_11": "B"
+    },
+    {
+        "validation_Sociology_20": "D"
+    },
+    {
+        "validation_Sociology_21": "A"
+    },
+    {
+        "validation_Sociology_10": "A"
+    },
+    {
+        "validation_Sociology_7": "A"
+    },
+    {
+        "validation_Sociology_19": "A"
+    },
+    {
+        "validation_Sociology_4": "D"
+    },
+    {
+        "validation_Sociology_1": "B"
+    },
+    {
+        "validation_Sociology_16": "B"
+    },
+    {
+        "validation_Sociology_18": "D"
+    },
+    {
+        "validation_Sociology_24": "A"
+    },
+    {
+        "validation_Sociology_13": "B"
+    },
+    {
+        "validation_Sociology_12": "D"
+    },
+    {
+        "validation_Sociology_15": "A"
+    },
+    {
+        "validation_Sociology_29": "C"
+    },
+    {
+        "validation_Sociology_3": "A"
+    },
+    {
+        "validation_Sociology_5": "C"
+    },
+    {
+        "validation_Sociology_28": "A"
+    },
+    {
+        "validation_Sociology_2": "C"
+    },
+    {
+        "validation_Sociology_14": "B"
+    },
+    {
+        "validation_Sociology_9": "C"
+    }
+]
